@@ -21,9 +21,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
+
 ---
-layout: default
----
+
+## layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -49,7 +50,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
-  return true;
+  return true
 }
 ```
 
@@ -62,9 +63,9 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -75,7 +76,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -83,14 +84,14 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -123,7 +124,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -144,9 +144,10 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
 ---
-layout: default
----
+
+## layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -172,7 +173,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
-  return true;
+  return true
 }
 ```
 
@@ -185,9 +186,9 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -198,7 +199,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -206,14 +207,14 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -246,7 +247,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -267,9 +267,10 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
 ---
-layout: default
----
+
+## layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -295,7 +296,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
-  return true;
+  return true
 }
 ```
 
@@ -308,9 +309,9 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -321,7 +322,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -329,14 +330,14 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -369,7 +370,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -390,9 +390,10 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
 ---
-layout: default
----
+
+## layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -418,7 +419,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
-  return true;
+  return true
 }
 ```
 
@@ -431,9 +432,9 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -444,7 +445,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -452,14 +453,14 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -492,7 +493,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -513,9 +513,10 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
 ---
-layout: default
----
+
+## layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -541,7 +542,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
-  return true;
+  return true
 }
 ```
 
@@ -554,9 +555,9 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -567,7 +568,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -575,14 +576,14 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -614,7 +615,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
@@ -641,7 +641,7 @@ The final element.
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
-  return true;
+  return true
 }
 ```
 
@@ -654,9 +654,9 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -667,7 +667,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -675,14 +675,14 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -714,7 +714,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
