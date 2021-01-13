@@ -12,5 +12,5 @@ redirect_from:
 
 ### Basic Info
 
-Nationality: Indonesia
+Nationality: Indonesia  
 Generation: Z
