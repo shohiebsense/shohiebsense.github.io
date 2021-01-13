@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 # Feel, Familiar, Will, Do, Experience.
+
+### Basic Info
+
+Nationality: Indonesia
+Generation: Z
