@@ -59,6 +59,13 @@ site.author %} {% endif %}
           ResearchGate
         </a>
       </li>
+      {% endif %} {% if author.spotify %}
+      <li>
+        <a href="https://open.spotify.com/user/{{ author.spotify }}">
+          <i class="fab fa-fw fa-spotify"></i>
+          Khronosium
+        </a>
+      </li>
       {% endif %} {% if author.twitter %}
       <li>
         <a href="https://twitter.com/{{ author.twitter }}">
@@ -182,7 +189,7 @@ site.author %} {% endif %}
       </li>
       {% endif %} {% if author.myanimelist %}
       <li>
-        <a href="https://www.myanimelist.com/profile/{{ author.myanimelist }}">
+        <a href="https://www.myanimelist.net/profile/{{ author.myanimelist }}">
           <i class="fab fa-fw fa-film" aria-hidden="true"></i>
           Hasnaspatia
         </a>
@@ -220,13 +227,6 @@ site.author %} {% endif %}
         <a href="{{ author.pubmed }}">
           <i class="ai ai-pubmed-square ai-fw"></i>
           PubMed
-        </a>
-      </li>
-      {% endif %} {% if author.spotify %}
-      <li>
-        <a href="https://open.spotify.com/user/{{ author.spotify }}">
-          <i class="fab fa-fw fa-spotify"></i>
-          Khronosium
         </a>
       </li>
       {% endif %} {% if author.impactstory %}
