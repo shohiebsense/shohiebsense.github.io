@@ -19,6 +19,7 @@ He/Him
 Memevore  
 Cofee & Tea  
 Laptop: msi GL62M-7RDX  
+VGA: Geforce GTX 1050  
 RAM: Corsair 16 GB  
 Mouse: Logitech G402  
 Headset: dbE GM500  
