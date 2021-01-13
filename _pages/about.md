@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Feel, Familiar, Will, Do, Experience.
+# Think, Feel, Do, Familiarize, Experience.
 
 ## Basic Info
 
