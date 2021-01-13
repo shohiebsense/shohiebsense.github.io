@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# Think, Feel, Do, Familiarize, Experience.
+# Think, Feel, Do, Familiarize, Experience
 
 ## Basic Info
 
+Race: Human  
 Nationality: Indonesia  
 Generation: Z  
 He/Him  
@@ -22,7 +23,7 @@ RAM: Corsair 16 GB
 Mouse: Logitech G402  
 Headset: dbE GM500  
 Monitor: AOC LED 24B1XHS 24" 1920x1080 IPS  
-Receive Money From Companies Since: 2016
+Receive Money From Company Since: 2016
 
 ## Familiarized Stacks And Libraries
 
