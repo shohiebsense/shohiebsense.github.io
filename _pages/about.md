@@ -41,6 +41,6 @@ Receive Money From Company Since: 2016
 
 `Javascript (2013), PHP (2014), Laravel (2016), Postman (2015), MySQL/MariaDB(2015), jQuery AJAX (2015), AngularJS (2016), CI (2016), MVC Design Pattern (2016), jQuery (2016), Docker (2017), Golang (2017), Yii (2019), AWS (2019), Phalcon (2020), ReactJs (2020)`
 
-## Tech Stack To Familiarize 2021
+## Tech Stacks To Familiarize 2021
 
 `React Native, Flutter, Rust, MongoDb. Project Management`
