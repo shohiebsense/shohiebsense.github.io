@@ -31,7 +31,7 @@ Receive Money From Company Since: 2016
 
 ### System Analyst
 
-`Agile (2015), Scrum (2015), Lean (2015), Trello (2015), Jira (2015), Confluence (2015), Slack (2015), Notion (2020), Changelogs Documentation (2020), Defining User Acceptance Criteria For Requirement (2020), Requirement Definition (2021), Project Documentation (2021), Technical Guides Documentation For Developers (2021)`
+`Agile (2015), Scrum (2015), Lean (2015), Trello (2015), Jira (2015), Confluence (2015), Slack (2015), Notion (2020), Changelogs Documentation (2020), Defining User Acceptance Criteria For Requirement (2020), Project Requirement Definition (2021), Project Documentation (2021), Technical Guides Documentation For Developers (2021)`
 
 ### Android Development
 
