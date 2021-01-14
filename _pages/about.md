@@ -24,6 +24,7 @@ RAM: Corsair 16 GB
 Mouse: Logitech G402  
 Headset: dbE GM500  
 Monitor: AOC LED 24B1XHS 24" 1920x1080 IPS  
+Supra X-125 FI  
 Receive Money From Company Since: 2016
 
 ## Familiarized Stacks And Libraries
