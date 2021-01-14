@@ -35,7 +35,7 @@ Receive Money From Company Since: 2016
 
 ### Android Development
 
-`Java JDK 6 (2016), Git (2016), Sqlite (2016), Ormlite (2016), Java JDK 7 (2017), CI/CD Approach (2016), Kotlin 0.6 (2016), MVP Design Pattern (2017), ReactiveX Android (2017), Kotlin 1.2 (2017), Espresso (2017), Google Map API (2017), Google Location API (2017), Firebase NoSQL (2017), Cocos 2d-x (2017), MVVM Design Pattern (2018), Infinite Scroll (2019), Kotlin Coroutines (2019), Android Jetpack (2019), Dart (2019), Flutter (2019), Java JDK 8 (2019), Realm (2019), React Native (2020)`
+`Java JDK 6 (2016), Git (2016), Sqlite (2016), Ormlite (2016), Java JDK 7 (2017), CI/CD Approach (2016), Kotlin 0.6 (2016), MVP Design Pattern (2017), ReactiveX Android (2017), Kotlin 1.2 (2017), Espresso (2017), Google Map API (2017), Google Location API (2017), Firebase NoSQL (2017), Cocos 2d-x (2017), MVVM Design Pattern (2018), Active Android (2018), Infinite Scroll (2019), GreenDao (2019), Kotlin Coroutines (2019), Android Jetpack (2019), Dart (2019), Flutter (2019), Java JDK 8 (2019), Realm (2019), React Native (2020)`
 
 ### Web Development
 
