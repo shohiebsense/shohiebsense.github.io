@@ -16,7 +16,7 @@ Race: Human
 Nationality: Indonesia  
 Generation: Z  
 He/Him  
-Memevore (Yes, eati  
+Memevore (Yes, eating memes)  
 Cofee & Tea  
 Laptop: msi GL62M-7RDX  
 VGA: GeForce GTX 1050  
