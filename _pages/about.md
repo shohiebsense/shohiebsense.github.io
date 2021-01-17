@@ -37,9 +37,9 @@ Receive Money From Company Since: 2016
 
 `Java JDK 6 (2016), Git (2016), Sqlite (2016), Ormlite (2016), Java JDK 7 (2017), CI/CD Approach (2016), Kotlin 0.6 (2016), MVP Design Pattern (2017), ReactiveX Android (2017), Kotlin 1.2 (2017), Espresso (2017), Google Map API (2017), Google Location API (2017), Firebase NoSQL (2017), Cocos 2d-x (2017), MVVM Design Pattern (2018), Active Android (2018), Infinite Scroll (2019), GreenDao (2019), Kotlin Coroutines (2019), Android Jetpack (2019), Dart (2019), Flutter (2019), Java JDK 8 (2019), Realm (2019), React Native (2020)`
 
-### Web Development
+### Web D
 
-`Javascript (2013), PHP (2014), Laravel (2016), Postman (2015), MySQL/MariaDB(2015), Node.js (2015),jQuery AJAX (2015), AngularJS (2016), CI (2016), MVC Design Pattern (2016), jQuery (2016), Docker (2017), Golang (2017), Yii (2019), AWS (2019), Phalcon (2020), ReactJs (2020)`
+`Javascript (2013), PHP (2014), Laravel (2016), Postman (2015), MySQL/MariaDB(2015), Node.js (2015),jQuery AJAX (2015), AngularJS (2016), CI (2016), MVC Design Pattern (2016), jQuery (2016), Docker (2017), Golang (2017), Yii (2019), AWS (2019), Phalcon (2020), ReactJs (2020), Rust (2021), Actix Web (2021)`
 
 ## Tech Stacks To Familiarize 2021
 
