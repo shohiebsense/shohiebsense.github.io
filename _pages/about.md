@@ -31,7 +31,7 @@ Receive Money From Company Since: 2016
 
 ### System Analyst
 
-`Agile (2015), Scrum (2015), Lean (2015), Trello (2015), Jira (2015), Confluence (2015), Slack (2015), Agile Business Analysis: Getting / Writing Lean Requirements (2020), Notion (2020), Changelogs Documentation (2020), Defining User Acceptance Criteria For Requirement (2020), Project Requirement Definition (2021), Project Documentation (2021), Technical Guides Documentation For Developers (2021)`
+`Agile (2015), Scrum (2015), Lean (2015), Trello (2015), Jira (2015), Confluence (2015), Slack (2015), Agile Business Analysis: Getting / Writing Lean Requirements (2020), Notion (2020), Changelogs Documentation (2020), Defining User Acceptance Criteria For Requirement (2020), Katalon Studio (2020), Project Requirement Definition (2021), Project Documentation (2021), Technical Guides Documentation For Developers (2021), Katalon Analytics (2021)`
 
 ### Android Development
 
@@ -39,7 +39,7 @@ Receive Money From Company Since: 2016
 
 ### Web Development
 
-`Javascript (2013), PHP (2014), Laravel (2016), Postman (2015), MySQL/MariaDB(2015), Node.js (2015),jQuery AJAX (2015), AngularJS (2016), CI (2016), MVC Design Pattern (2016), jQuery (2016), Docker (2017), Golang (2017), Yii (2019), AWS (2019), Phalcon (2020), ReactJs (2020), Rust (2021), Actix Web (2021)`
+`Javascript (2013), PHP (2014), Laravel (2016), Postman (2015), MySQL/MariaDB(2015), Node.js (2015),jQuery AJAX (2015), AngularJS (2016), CI (2016), MVC Design Pattern (2016), jQuery (2016), Docker (2017), Golang (2017), Yii (2019), AWS (2019), Phalcon (2020), ReactJs (2020), Rust (2021), Actix Web (2021), Gin (2021)`
 
 ## Tech Stacks To Familiarize 2021
 
