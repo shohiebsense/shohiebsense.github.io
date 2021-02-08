@@ -1,7 +1,12 @@
 # Ways To Deserialize Json In Flutter
+
 Yes.
+
 # Prelude
+
+Have a look at [here](https://flutter.dev/docs/development/data-and-backend/json) first.
 Say you got this type of .json
+
 ```.json
 {
   "Message": "72",
@@ -9,18 +14,20 @@ Say you got this type of .json
   "data": [
     {
       "id": 53,
-      "name": "Desi World Radio",
-      "url": "http://stream.zenolive.com/4mbfcn4mf24tv",
-      "desc": "The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
-      "pic": "url.com/radio_pics/53.png?dt=2515202008:15:14"
+      "name": "Sebastian Michaelis",
+      "url": "http://sebastianmichaelis.com",
+      "desc": "Dabesto Numero Uno.",
+      "pic": "aws.com/cute_sebastian.png"
     },
     {
-      
+
     }
   ]
 }
 ```
+
 Import necessary libraries.
+
 ```.dart
 import  'package:http/http.dart'  as http;
 import  'dart:convert';
@@ -29,6 +36,7 @@ Future<BaseModel> getData(String url, BaseModel baseModel) async {
     final response = await http.get(url);
 }
 ```
+
 Then there you go.
 
 # #1. Accessing Through Keys
@@ -41,7 +49,9 @@ data.forEach((element) {
     print(element['name']);
 });
 ```
+
 Accessing The Element/Item
+
 ```.dart
 var data= list["data"];
 var item = data[0];
@@ -53,7 +63,40 @@ String url = item["url"];
 String pic = item["pic"];
 ```
 
-## 2. Mapping Like You Did In Serialization-Deserialization Library
+## 2. Mapping To The Model Like You Did In Serialization-Deserialization Library
 
-To Be Continued
+Yeah.
 
+```dart
+class AnimeChar {
+  final int id;
+  final String name;
+  final String desc;
+  final String url;
+  final String pic;
+
+  AnimeChar({this.id, this.name, this.url, this.pic});
+
+  AnimeChar.fromJson(Map<String, dynamic> json) :
+    id = json["id"];
+    name = json["name"];
+    desc = json["desc"];
+    url = json["url"];
+    pic = json["pic"];
+
+}
+
+```
+
+Here goes the way.
+
+```.dart
+
+ data.forEach((element) {
+   Map animeCharMap = jsonDecode(element);
+   var animeChar = AnimeChar.fromJson(animeCharMap);
+
+   print("hello ${animeChar.name}");
+ });
+
+```
