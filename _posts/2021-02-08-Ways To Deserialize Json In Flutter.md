@@ -91,12 +91,7 @@ class AnimeChar {
 Here goes the way.
 
 ```.dart
-
- data.forEach((element) {
-   Map animeCharMap = jsonDecode(element);
-   var animeChar = AnimeChar.fromJson(animeCharMap);
-
-   print("hello ${animeChar.name}");
- });
+ Iterable data = list['data'];
+List<AnimeChar> animeCharList = List<AnimeChar>.from(data.map((e) => AnimeChar.json(e)));
 
 ```
