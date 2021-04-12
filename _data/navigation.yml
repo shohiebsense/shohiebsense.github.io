@@ -2,6 +2,10 @@
 main:
   - title: 'Education'
     url: /education/
+  - title: 'Development Journal'
+    url: https://github.com/shohiebsense/MyDevelopingJournal
+  - title: 'Posts'
+    url: /year-archive/
   # - title: 'Portfolio'
   #   url: /portfolio/
   # - title: 'Past Events'
