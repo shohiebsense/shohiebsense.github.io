@@ -1,13 +1,9 @@
-# Ways To Deserialize Json In Flutter
-
-Yes.
-
 # Prelude
 
 Have a look at [here](https://flutter.dev/docs/development/data-and-backend/json) first.  
 Say you got this type of .json
 
-```.json
+```json
 {
   "Message": "72",
   "Result": 200,
@@ -19,16 +15,14 @@ Say you got this type of .json
       "desc": "Dabesto Numero Uno.",
       "pic": "aws.com/cute_sebastian.png"
     },
-    {
-
-    }
+    {}
   ]
 }
 ```
 
 Import necessary libraries.
 
-```.dart
+```dart
 import  'package:http/http.dart'  as http;
 import  'dart:convert';
 
@@ -41,7 +35,7 @@ Then there you go.
 
 ## #1. Accessing Through Keys
 
-```.dart
+```dart
 Map<String, dynamic> list = json.decode(response.body);
 List<dynamic> data = list['data'];
 
@@ -52,7 +46,7 @@ data.forEach((element) {
 
 Accessing The Element/Item
 
-```.dart
+```dart
 var data= list["data"];
 var item = data[0];
 
