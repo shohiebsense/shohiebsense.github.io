@@ -82,7 +82,7 @@ class AnimeChar {
 
 Here goes the way.
 
-```.dart
+```dart
  Iterable data = list['data'];
 List<AnimeChar> animeCharList = List<AnimeChar>.from(data.map((e) => AnimeChar.json(e)));
 
