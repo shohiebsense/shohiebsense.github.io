@@ -20,15 +20,15 @@ Say you got this type of .json
 
 Import necessary libraries.
 
-<pre>
-import  'package:http/http.dart'  as http;
-import  'dart:convert';
+```
+import  'package:http/http.dart'  as http;  
+import  'dart:convert';  
 
 Future<BaseModel> getData(String url, BaseModel baseModel) async {
     final response = await http.get(url);
 }
-</pre>
 
+```
 Then there you go.
 
 ## #1. Accessing Through Keys
