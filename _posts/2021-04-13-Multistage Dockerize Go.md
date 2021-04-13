@@ -21,7 +21,7 @@ Golang Docker Too Big yanno.
 
 main.go
 
-```Go
+```go
 
 package main
 
@@ -35,6 +35,7 @@ func main() {
 
   log.Printf(" [*] Waiting for messages. To exit press CTRL+C")
 }
+
 ```
 
 ```Dockerfile
