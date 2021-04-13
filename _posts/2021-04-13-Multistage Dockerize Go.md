@@ -79,10 +79,9 @@ In case you found some error like:
 go.mod file not found in current directory or any parent directory; see 'go help modules'
 ```
 
-Means your Go, not the latest enough.
+Means your Go version, not the latest enough.
 Add go.mod
 
 ```
-
 module shohiebsense.com/hello
 ```
