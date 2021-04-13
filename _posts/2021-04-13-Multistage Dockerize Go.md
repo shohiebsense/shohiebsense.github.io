@@ -13,7 +13,7 @@ Golang has efficient server resource consumption.
 
 ## 1. Why Dockerize?
 
-Because of Docker benefits themselves, ye?
+Because of Docker's benefits have to offer, ye?
 
 ## 2. Why Mulstistage?
 
