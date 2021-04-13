@@ -21,20 +21,21 @@ Say you got this type of .json
 Import necessary libraries.
 
 ```
-import  'package:http/http.dart'  as http;  
-import  'dart:convert';  
+import  'package:http/http.dart'  as http;
+import  'dart:convert';
 
 Future<BaseModel> getData(String url, BaseModel baseModel) async {
     final response = await http.get(url);
 }
 
 ```
+
 Then there you go.
 
 ## #1. Accessing Through Keys
 
-<pre>
-Map<String, dynamic> list = json.decode(response.body);
+<pre>  
+Map<String, dynamic> list = json.decode(response.body);  
 List<dynamic> data = list['data'];
 
 data.forEach((element) {
@@ -82,7 +83,7 @@ class AnimeChar {
 
 Here goes the way.
 
-<pre>
- Iterable data = list['data'];
-List<AnimeChar> animeCharList = List<AnimeChar>.from(data.map((e) => AnimeChar.json(e)));
+<pre>  
+Iterable data = list['data'];  
+List<AnimeChar> animeCharList = List<AnimeChar>.from(data.map((e) => AnimeChar.json(e)));  
 </pre>
