@@ -55,6 +55,22 @@ COPY --from=builder /app .
 CMD ["./main"]
 ```
 
+Next build your dockerfile.
+
+```
+
+$ docker build -t your-image-name .
+
+```
+
+Last, run your container
+
+```
+
+$ docker run -it your-image-name
+
+```
+
 In case you found some error like:
 
 ```cmd
@@ -64,6 +80,7 @@ go.mod file not found in current directory or any parent directory; see 'go help
 Means your Go, not the latest enough.
 Add go.mod
 
-```mod
+```
+
 module shohiebsense.com/hello
 ```
