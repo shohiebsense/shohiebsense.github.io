@@ -2,7 +2,7 @@
 
 - Import `encoding/json`
 
-First is to create the struct
+First is to create a struct
 
 ```go
 type Payload struct {
@@ -13,7 +13,7 @@ type Payload struct {
 }
 ```
 
-After you et from the file or fetch from the endpoint, do:
+After you get from the file or fetch from the endpoint, do:
 
 ```go
 response, err := http.DefaultClient.Do(request)
