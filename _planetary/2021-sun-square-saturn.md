@@ -20,7 +20,8 @@ Self-consciousness.
 Patience.  
 Determination.  
 Ethical.
-Commitment.
+Commitment.  
+Embracing Change.
 
 references:  
 https://astromatrix.org/Horoscopes/Planet-Aspects/Sun-Square-Saturn  
