@@ -2,7 +2,7 @@
 title: 'Uranus Square North Node'
 collection: learn-planetary-aspects
 type: 'Uranus - North Node Aspects'
-permalink: /learn-planetary-aspects/2014-spring-teaching-1
+permalink: /learn-planetary-aspects/uranus-square-north-node
 venue: 'Imagination'
 date: 2021-05-01
 location: 'Space'
