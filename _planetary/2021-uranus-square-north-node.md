@@ -1,17 +1,11 @@
 ---
-title: 'Teaching experience 1'
+title: 'Uranus Square North Node'
 collection: learn-planetary-aspects
-type: 'Undergraduate course'
+type: 'Uranus - North Node Aspects'
 permalink: /learn-planetary-aspects/2014-spring-teaching-1
-venue: 'University 1, Department'
-date: 2014-01-01
-location: 'City, Country'
+venue: 'Imagination'
+date: 2021-05-01
+location: 'Space'
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
-
-# Heading 1
-
-# Heading 2
-
-# Heading 3
