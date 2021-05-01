@@ -20,8 +20,10 @@ Self-consciousness.
 Patience.  
 Determination.  
 Ethical.
+Commitment.
 
 references:  
 https://astromatrix.org/Horoscopes/Planet-Aspects/Sun-Square-Saturn  
 https://cafeastrology.com/natal/sunsaturnaspects.html
 https://www.horoscopejoy.com/sun-square-saturn-natal-and-transit-needs-and-priorities/
+https://www.sallykirkman.com/sun-square-saturn-long-tough-road-commitment/
