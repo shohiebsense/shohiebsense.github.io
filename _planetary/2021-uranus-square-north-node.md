@@ -8,4 +8,14 @@ date: 2021-05-01
 location: 'Space'
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Daring.  
+Progression.  
+Unusual Ideas and methods.  
+Creative Energy.  
+Facing Gap between independence and freedom and the challenges.
+
+references:
+https://horoscopes.astro-seek.com/node-square-uranus-natal-aspect-meaning  
+https://12andus.com/blog/view/373264/ uranus-and-north-node-aspects-in-the-birth-chart-does-your-unique-vision-help-you-reach-your-destiny  
+https://astrotarot.net/natal-uranus-north-node-aspects/  
+https://astromatrix.org/Horoscopes/Planet-Aspects/Uranus-Square-North-Node
