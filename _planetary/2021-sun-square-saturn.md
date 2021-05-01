@@ -21,7 +21,7 @@ Patience.
 Determination.  
 Ethical.
 
-references:
+references:  
 https://astromatrix.org/Horoscopes/Planet-Aspects/Sun-Square-Saturn  
 https://cafeastrology.com/natal/sunsaturnaspects.html
 https://www.horoscopejoy.com/sun-square-saturn-natal-and-transit-needs-and-priorities/
