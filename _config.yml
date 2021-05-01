@@ -170,7 +170,7 @@ kramdown:
 
 # Collections
 collections:
-  learn-planetary-aspects:
+  planetary:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -206,7 +206,7 @@ defaults:
   # _teaching
   - scope:
       path: ''
-      type: learn-planetary-aspects
+      type: planetary
     values:
       layout: single
       author_profile: true
