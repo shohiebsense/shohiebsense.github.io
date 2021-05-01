@@ -6,7 +6,7 @@ main:
     url: https://github.com/shohiebsense/MyDevelopingJournal
   - title: 'Posts'
     url: /posts/
- - title: 'Learn - Planetary Aspects'
+  - title: 'Learn - Planetary Aspects'
     url: /learn-planetary-aspects/
   # - title: 'Past Events'
   #   url: /past-events/
