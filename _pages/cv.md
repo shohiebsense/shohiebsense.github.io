@@ -52,7 +52,7 @@ Talks
   
 Learn Planetary Aspects
 ======
-  <ul>{% for post in site.learn-planetary-aspects %}
+  <ul>{% for post in site.planetary %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
