@@ -50,9 +50,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Learn Planetary Aspects
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.learn-planetary-aspects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
