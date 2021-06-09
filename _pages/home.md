@@ -18,9 +18,6 @@ Generation: Z
 He/Him  
 Memevore (Yes, eating memes)  
 Cofee & Tea  
-Laptop: msi GL62M-7RDX  
-VGA: GeForce GTX 1050  
-RAM: Corsair 16 GB  
 Mouse: Logitech G402  
 Headset: dbE GM500  
 Monitor: AOC LED 24B1XHS 24" 1920x1080 IPS  
