@@ -27,7 +27,7 @@ you can use (KeyStore Explorer)[https://keystore-explorer.org/]
 2. ```Android Studio -> View -> Tool Windows -> Build Variants``` or Click ```Build Variants``` on the left bottom 
 3. Change the ```Active Build variant``` to ```Release```
 4. File -> Project Structure -> Choose Build Variants
-5. You can change the `Signing Config```
+5. You can change the ```Signing Config```
 6. In ```Modules``` You can change the configurations there, like set the ```Debuggable``` to ```true```
 7. In ```Signing Configs``` add the generated keystore to it.
 8. Rebuild if it is needed and Run the app.
