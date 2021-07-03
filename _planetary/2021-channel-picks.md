@@ -12,6 +12,8 @@ Biased.
 
 - The Astrology Podcast  
   [Channel link](https://www.youtube.com/user/astrologue)
+- Raising Vibrations
+  [Channel link](https://www.youtube.com/channel/UCh_m1Mjbl5aUt7W3NDVu4YQ)
 - Tara Nikita  
   [Channel link](https://www.youtube.com/channel/UChx7L3dHGcYmCskc0GcRs6w)
 - Mastering the Zodiac with Athen Chimenti  
