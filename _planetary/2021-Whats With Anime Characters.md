@@ -1,4 +1,3 @@
-
 ---
 title: 'Whats With Anime Characters'
 collection: learn-planetary-aspects
