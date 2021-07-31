@@ -42,4 +42,4 @@ Receive Money From Company Since: 2016
 
 `React Native, Flutter, Rust, MongoDb. Project Management`
 
-# Wait, you learn and still never learn :biblethump:  
+# Wait, I learn, and still never learn :biblethump:  
