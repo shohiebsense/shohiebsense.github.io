@@ -1,5 +1,5 @@
 ---
-title: 'Whats With Anime Characters'
+title: 'Whats With Anime Characters?'
 collection: learn-planetary-aspects
 type: 'Others'
 permalink: /learn-planetary-aspects/whats-with-anime-characters
