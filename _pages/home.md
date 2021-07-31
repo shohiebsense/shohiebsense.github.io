@@ -10,7 +10,7 @@ redirect_from:
 
 # Think, Feel, Strive, Familiarize, Experience
 
-## Basic Info
+### Basic Info
 
 Race: Human  
 Nationality: Indonesia  
@@ -41,3 +41,5 @@ Receive Money From Company Since: 2016
 ## Tech Stacks To Familiarize 2021
 
 `React Native, Flutter, Rust, MongoDb. Project Management`
+
+# Wait, you learn and still never learn :biblethump:  
