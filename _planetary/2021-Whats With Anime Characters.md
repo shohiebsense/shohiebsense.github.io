@@ -3,7 +3,7 @@
 title: 'Whats With Anime Characters?'
 collection: learn-planetary-aspects
 type: 'Others'
-permalink: /learn-planetary-aspects/whats-with-anime=characters
+permalink: /learn-planetary-aspects/whats-with-anime-characters
 venue: 'Imagination'
 date: 2021-08-01
 location: 'Space'
