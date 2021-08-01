@@ -19,6 +19,7 @@ Patience
 Anime Characters  
 Shiraishi Urara  
 Slaine Troyard  
+Yukinoshita Yukino  
 Misa Amane  
 Nagisa Furukawa  
 Shin-Ah 
