@@ -22,7 +22,7 @@ Anime Characters \
 Hatake Kakashi \
 Fujibayashi Kyou \
 Nara Shikamaru \
-Fujibayashi Ryou \
+Fujibayashi Ryou
 Yamada Ryu \
 Kraft Lawrence (Opinion) \
 Sasaki Chiho \
