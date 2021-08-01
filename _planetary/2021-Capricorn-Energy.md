@@ -22,7 +22,7 @@ Slaine Troyard
 Yukinoshita Yukino  
 Misa Amane  
 Nagisa Furukawa  
-Shin-Ah 
+Shin-Ah  
 Hyuuga Hinata  
 Levi Ackerman  
 Kuronuma Sadako
