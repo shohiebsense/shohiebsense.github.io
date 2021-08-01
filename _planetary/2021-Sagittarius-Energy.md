@@ -24,3 +24,4 @@ Azaka Kokutou
 Mello (Mihael Keehl)  
 Ciel Panthomhive  
 Kosaka Chihiro  
+Rintarou Ookabe  
