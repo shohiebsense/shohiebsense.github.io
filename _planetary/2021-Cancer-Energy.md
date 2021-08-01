@@ -25,3 +25,5 @@ Killua Zoldyck \
 Oshino Shinobu \
 Nami \
 Kaori Miyazono \
+Kururugi Suzaku \
+Midorima Shintarou \
