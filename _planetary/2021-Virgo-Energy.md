@@ -28,4 +28,5 @@ Zenitsu Agatsuma \
 Odagiri Nene \
 Iguro Obanai \
 Gyomei Himejima \
-Nate River
+Nate River \
+Zoe Hange
