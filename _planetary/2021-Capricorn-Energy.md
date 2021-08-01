@@ -25,3 +25,4 @@ Nagisa Furukawa
 Shin-Ah 
 Hyuuga Hinata  
 Levi Ackerman  
+Kuronuma Sadako
