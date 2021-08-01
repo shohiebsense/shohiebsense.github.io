@@ -15,10 +15,12 @@ Initiation
 Competitiveness    
 Enterprise  
   
-Anime Characters\  
+Anime Characters\
+\
 Araragi Koyomi  
 Kurapika  
 Sakurajima Mai  
+Eren Yeager  
 Haruno Sakura  
 Natsuki Subaru\
 Okazaki Ushio  
