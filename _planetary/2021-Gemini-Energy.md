@@ -23,4 +23,4 @@ Touma Kazusa
 Hisoka Morrow  
 Uchiha Itachi    
 Masaomi Kida   
-Sora (No Game no Life)\
+Sora (No Game no Life)
