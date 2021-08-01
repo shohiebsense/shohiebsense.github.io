@@ -19,10 +19,10 @@ Beauty
 Anime Characters  
 Kitahara Haruki \
 Yuuki Asuna \
-Uzumaki Naruto \    
+Uzumaki Naruto \
 Sakata Gintoki   
 Joseph Joestar    
-Emilia (Re:Zero) \  
+Emilia (Re:Zero) \
 Megumi Katou  
-Kiyotaka Ayanokouji\
-Suzumiya Haruhi\
+Kiyotaka Ayanokouji \
+Suzumiya Haruhi
