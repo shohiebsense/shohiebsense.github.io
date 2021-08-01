@@ -1,8 +1,8 @@
 ---
-title: 'Capricorn Energies'
+title: 'Capricorn Energy'
 collection: learn-planetary-aspects
 type: 'Others'
-permalink: /learn-planetary-aspects/capricorn-energies
+permalink: /learn-planetary-aspects/capricorn-energy
 venue: 'Imagination'
 date: 2021-08-01
 location: 'Space'
