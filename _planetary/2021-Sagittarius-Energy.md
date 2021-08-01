@@ -14,8 +14,9 @@ Jupiter
 Enthusiasm    
 Confidence    
 Optimism    
-Exploration, Expansion      
+Exploration, Expansion  
   
+
 Anime Characters  
 Wataya Arata    
 Aki Tomoya  
