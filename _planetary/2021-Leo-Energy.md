@@ -23,4 +23,4 @@ Uchiha Sasuke \
 Taiga Kagami \
 Son Hak \
 Hisanuma Sayu \
-Kaizaki Arata \
+Kaizaki Arata
