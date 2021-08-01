@@ -23,3 +23,4 @@ Touma Kazusa
 Hisoka Morrow  
 Uchiha Itachi    
 Masaomi Kida   
+Sora (Game of Life)\
