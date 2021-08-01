@@ -23,4 +23,5 @@ Ogiso Setsuna \
 Kasumigaoka Utaha \
 Tsutomu Komano \
 Rem \
-Rin Toosaka
+Rin Toosaka \
+Mikasa Ackerman
