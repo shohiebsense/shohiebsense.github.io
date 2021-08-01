@@ -16,8 +16,8 @@ Confidence
 Optimism    
 Exploration, Expansion  
   
-
 Anime Characters  
+
 Wataya Arata    
 Aki Tomoya  
 Lelouch Lamperouge  
