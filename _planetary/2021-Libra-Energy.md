@@ -17,7 +17,8 @@ Negotiation
 Beauty       
   
 Anime Characters  
-Kitahara Haruki       
+Kitahara Haruki\
+Yuuki Asuna\
 Uzumaki Naruto    
 Sakata Gintoki   
 Joseph Joestar    
