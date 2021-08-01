@@ -24,4 +24,5 @@ Kasumigaoka Utaha \
 Tsutomu Komano \
 Rem \
 Rin Toosaka \
-Mikasa Ackerman
+Mikasa Ackerman \
+Namikaze Minato
