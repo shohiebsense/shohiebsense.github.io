@@ -25,6 +25,7 @@ Nara Shikamaru \
 Fujibayashi Ryou \
 Yamada Ryu \
 Kraft Lawrence (Opinion) \
+Sasaki Chiho \
 Zenitsu Agatsuma \
 Odagiri Nene \
 Iguro Obanai \
