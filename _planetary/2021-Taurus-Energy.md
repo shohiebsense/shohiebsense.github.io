@@ -20,12 +20,9 @@ Anime Characters \
 \
 Monkey D. Luffy \
 Gon Freccs \
-Jae-Ha
-<details><summary>Read More</summary>
-<p>
-Tanaka Youichi<br/>
-Wakamiya Shinobu<br/>
-Ichinose Kotomi<br/>
-Kazehaya Shouta<br/>
-Orihara Izaya<br/>
-</p>
+Jae-Ha \
+Tanaka Youichi \
+Wakamiya Shinobu \
+Ichinose Kotomi \
+Kazehaya Shouta \
+Orihara Izaya \
