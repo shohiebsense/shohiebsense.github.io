@@ -23,3 +23,5 @@ Yukinoshita Yukino
 Misa Amane  
 Nagisa Furukawa  
 Shin-Ah 
+Hyuuga Hinata  
+Levi Ackerman  
