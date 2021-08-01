@@ -17,12 +17,12 @@ Negotiation
 Beauty       
   
 Anime Characters  
-Kitahara Haruki\
-Yuuki Asuna\
-Uzumaki Naruto    
+Kitahara Haruki \
+Yuuki Asuna \
+Uzumaki Naruto \    
 Sakata Gintoki   
 Joseph Joestar    
-Emilia (Re:Zero)  
+Emilia (Re:Zero) \  
 Megumi Katou  
 Kiyotaka Ayanokouji\
 Suzumiya Haruhi\
