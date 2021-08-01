@@ -22,3 +22,4 @@ Sawamura Supensā Eriri
 Leorio Paradinight   
 Yagami Light  
 Suou Hisashi  
+Sanji
