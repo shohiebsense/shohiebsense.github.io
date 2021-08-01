@@ -15,7 +15,7 @@ Enthusiasm
 Confidence    
 Optimism    
 Exploration, Expansion  
-  
+\
 Anime Characters  
 
 Wataya Arata    
