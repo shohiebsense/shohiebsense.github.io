@@ -25,3 +25,4 @@ Mello (Mihael Keehl)
 Ciel Panthomhive  
 Kosaka Chihiro  
 Ookabe Rintarou  
+Ken Kaneki  
