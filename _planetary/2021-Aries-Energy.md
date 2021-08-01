@@ -15,7 +15,7 @@ Initiation
 Competitiveness    
 Enterprise  
   
-Anime Characters  
+Anime Characters\  
 Araragi Koyomi  
 Kurapika  
 Sakurajima Mai  
