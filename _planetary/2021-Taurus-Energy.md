@@ -21,7 +21,7 @@ Anime Characters \
 Monkey D. Luffy \
 Gon Freccs \
 Jae-Ha \
-Tanaka Youichi \
+Tanaka Youichi
 Wakamiya Shinobu \
 Ichinose Kotomi \
 Kazehaya Shouta \
