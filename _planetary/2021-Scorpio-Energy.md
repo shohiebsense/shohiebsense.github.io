@@ -25,4 +25,5 @@ Sarushima Maria
 Kawasaki Saki  
 Lawliet (Ryuzaki)  
 Armin Arlert \
-Nunally Lamperouge
+Nunally Lamperouge \
+Jiraiya
