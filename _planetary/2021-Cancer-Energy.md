@@ -27,4 +27,5 @@ Nami \
 Kaori Miyazono \
 Kururugi Suzaku \
 Kirishima Touka \
-Midorima Shintarou
+Midorima Shintarou \
+Sadao Maou
