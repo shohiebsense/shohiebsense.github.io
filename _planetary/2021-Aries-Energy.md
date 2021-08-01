@@ -24,6 +24,7 @@ Katsuki Bakugou
 Eren Yeager  
 Haruno Sakura  
 Natsuki Subaru\
+Johan Liebert\
 Okazaki Ushio  
 Yona  
 Crusch Karsten  
