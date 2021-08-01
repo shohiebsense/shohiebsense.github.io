@@ -20,6 +20,7 @@ Anime Characters\
 Araragi Koyomi  
 Kurapika  
 Sakurajima Mai  
+Katsuki Bakugou  
 Eren Yeager  
 Haruno Sakura  
 Natsuki Subaru\
