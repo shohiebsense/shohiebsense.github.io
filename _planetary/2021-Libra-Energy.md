@@ -25,3 +25,4 @@ Joseph Joestar
 Emilia (Re:Zero)  
 Megumi Katou  
 Kiyotaka Ayanokouji\
+Suzumiya Haruhi\
