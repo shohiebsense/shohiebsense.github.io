@@ -16,8 +16,8 @@ Confidence
 Optimism    
 Exploration, Expansion  
 \
-Anime Characters  
-
+Anime Characters \
+\
 Wataya Arata    
 Aki Tomoya  
 Lelouch Lamperouge  
@@ -27,4 +27,4 @@ Ciel Panthomhive
 Kosaka Chihiro  
 Ookabe Rintarou  
 Ken Kaneki  
-Asuka Langley Souryuu\
+Asuka Langley Souryuu
