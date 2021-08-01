@@ -25,4 +25,4 @@ Tanaka Youichi \
 Wakamiya Shinobu \
 Ichinose Kotomi \
 Kazehaya Shouta \
-Orihara Izaya \
+Orihara Izaya
