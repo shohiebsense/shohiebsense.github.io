@@ -8,18 +8,19 @@ date: 2021-08-01
 location: 'Space'
 ---
 
-Air Sign\  
-Fixed\  
-Uranus\
-Originality\  
-Independence\       
-Social Awareness\    
-Idealism\
+Air Sign \
+Fixed \ 
+Uranus \
+Originality \ 
+Independence \   
+Social Awareness \  
+Idealism \
 \
-Anime Characters\
-Heiwajima Shizuo\
-Ogiso Setsuna\    
-Kasumigaoka Utaha\    
-Tsutomu Komano\
-Rem\
-Rin Toosaka\
+Anime Characters \
+\
+Heiwajima Shizuo \
+Ogiso Setsuna \
+Kasumigaoka Utaha \
+Tsutomu Komano \
+Rem \
+Rin Toosaka
