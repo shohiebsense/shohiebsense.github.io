@@ -9,11 +9,11 @@ location: 'Space'
 ---
 
 Air Sign \
-Fixed \ 
+Fixed \
 Uranus \
-Originality \ 
-Independence \   
-Social Awareness \  
+Originality \
+Independence \
+Social Awareness \
 Idealism \
 \
 Anime Characters \
