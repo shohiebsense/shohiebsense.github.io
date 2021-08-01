@@ -27,3 +27,4 @@ Ciel Panthomhive
 Kosaka Chihiro  
 Ookabe Rintarou  
 Ken Kaneki  
+Asuka Langley Souryuu\
