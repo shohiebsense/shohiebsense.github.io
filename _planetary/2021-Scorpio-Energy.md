@@ -24,3 +24,4 @@ Ilyasviel Von Einzbern
 Sarushima Maria      
 Kawasaki Saki  
 Lawliet (Ryuzaki)  
+Armin Arlert\
