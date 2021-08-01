@@ -16,6 +16,7 @@ Intensity
 Passion  
 Ambition  
   
+  
 Anime Characters  
 Emiya Kiritsugu  
 Chrollo Lucifer (It says unknown on Wiki, personal opinion though)    
