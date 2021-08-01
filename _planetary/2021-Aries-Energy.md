@@ -13,7 +13,7 @@ Cardinal
 Leadership    
 Initiation      
 Competitiveness    
-Enterprise    
+Enterprise  
   
 Anime Characters  
 Araragi Koyomi  
