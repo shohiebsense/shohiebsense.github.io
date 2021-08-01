@@ -24,3 +24,4 @@ Sakata Gintoki
 Joseph Joestar    
 Emilia (Re:Zero)  
 Megumi Katou  
+Kiyotaka Ayanokouji\
