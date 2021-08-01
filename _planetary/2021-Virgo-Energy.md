@@ -11,6 +11,7 @@ location: 'Space'
 Earth Sign \
 Mutable \
 Mercury, Chiron \
+Utility \
 Precision \
 Order \
 Perfection \
