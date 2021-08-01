@@ -22,7 +22,7 @@ Wataya Arata
 Aki Tomoya  
 Lelouch Lamperouge  
 Azaka Kokutou  
-Mello (Mihael Keehl)  
+Mello (Mihael Keehl) \
 Ciel Panthomhive  
 Kosaka Chihiro  
 Ookabe Rintarou  
