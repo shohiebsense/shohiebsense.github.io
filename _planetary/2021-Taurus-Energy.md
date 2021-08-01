@@ -20,8 +20,7 @@ Anime Characters \
 \
 Monkey D. Luffy \
 Gon Freccs \
-Jae-Ha  
-<details><summary>Read More</summary>
+Jae-Ha<details><summary>Read More</summary>
 <p>
 Tanaka Youichi</br>
 Wakamiya Shinobu</br>
