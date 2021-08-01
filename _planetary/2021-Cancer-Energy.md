@@ -26,4 +26,5 @@ Oshino Shinobu \
 Nami \
 Kaori Miyazono \
 Kururugi Suzaku \
-Midorima Shintarou \
+Kirishima Touka \
+Midorima Shintarou
