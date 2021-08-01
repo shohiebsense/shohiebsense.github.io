@@ -29,4 +29,5 @@ Odagiri Nene \
 Iguro Obanai \
 Gyomei Himejima \
 Nate River \
-Zoe Hange
+Zoe Hange \
+Temari
