@@ -20,6 +20,7 @@ Araragi Koyomi
 Kurapika  
 Sakurajima Mai  
 Haruno Sakura  
+Natsuki Subaru\
 Okazaki Ushio  
 Yona  
 Crusch Karsten  
