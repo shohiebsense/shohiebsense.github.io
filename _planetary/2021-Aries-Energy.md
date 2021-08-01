@@ -23,3 +23,4 @@ Haruno Sakura
 Okazaki Ushio  
 Yona  
 Crusch Karsten  
+Mashima Taichi  
