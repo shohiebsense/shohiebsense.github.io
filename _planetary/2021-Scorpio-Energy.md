@@ -24,4 +24,5 @@ Ilyasviel Von Einzbern
 Sarushima Maria      
 Kawasaki Saki  
 Lawliet (Ryuzaki)  
-Armin Arlert\
+Armin Arlert \
+Nunally Lamperouge
