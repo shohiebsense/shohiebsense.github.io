@@ -2,7 +2,7 @@
 title: 'Pisces Energy'
 collection: learn-planetary-aspects
 type: 'Others'
-permalink: /learn-planetary-aspects/capricorn-energy
+permalink: /learn-planetary-aspects/pisces-energy
 venue: 'Imagination'
 date: 2021-08-01
 location: 'Space'
