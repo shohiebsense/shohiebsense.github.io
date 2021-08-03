@@ -24,3 +24,4 @@ Hisoka Morrow
 Uchiha Itachi    
 Masaomi Kida   
 Sora (No Game no Life)
+Nadeko Sengoku
