@@ -18,7 +18,7 @@ Imagination
   
 Anime Characters  
 Mukaido Manaka    
-Sawamura Supensā Eriri  
+Sawamura Spencer Eriri  
 Leorio Paradinight   
 Yagami Light  
 Suou Hisashi  
