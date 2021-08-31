@@ -1,4 +1,4 @@
-Credits: https://www.nordtheme.com/
+Credit: https://www.nordtheme.com/
 
 I like blue.
 
