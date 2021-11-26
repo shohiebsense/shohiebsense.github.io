@@ -18,7 +18,7 @@ Tove Lo \
 Lorde \
 Frank Ocean \
 Charly Rae Jepsen \
-Ben Bruce (Asking Alexandria)
+Ben Bruce (Asking Alexandria) \
  \
 Songs \
  \
