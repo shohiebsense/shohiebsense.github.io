@@ -21,6 +21,7 @@ Adam Young (Owl City) \
 Paloma Faith \
 Synyster Gates \
 Colin Greenwood (Radiohead) \
+Derek Sanders (Mayday Parade) \
  \
 Songs \
  \
