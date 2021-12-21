@@ -80,7 +80,7 @@ analytics:
 author:
   name: 'Shohieb Nasruddin'
   avatar: 'profile.png'
-  bio: 'Mobile Fullstack Dev; System Analyst'
+  bio: 'https://saweria.co/shohieb'
   location: 'Bandung'
   discord: '363307853563428864'
   employer:
@@ -88,7 +88,7 @@ author:
   googlescholar:
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
-  uri: 'https://saweria.co/shohieb'
+  uri: 
   bitbucket:
   codepen:
   dribbble:
