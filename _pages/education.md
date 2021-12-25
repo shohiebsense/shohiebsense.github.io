@@ -1,7 +1,7 @@
 ---
 layout: education
 title: 'Astrologaster Journey'
-permalink: /education/
+permalink: /astrologaster-journey/
 author_profile: true
 ---
 
