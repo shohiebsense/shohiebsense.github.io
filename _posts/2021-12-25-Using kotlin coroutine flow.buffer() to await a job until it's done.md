@@ -44,4 +44,4 @@ fun Greeting(name: String) {
 In action: \
 I do rapid clicking, to make sure the process inside prevents it
 
-()[https://github.com/shohiebsense/shohiebsense.github.io/blob/master/Record_2021_12_25_16_13_08_228.gif]
+![action](https://github.com/shohiebsense/shohiebsense.github.io/blob/master/Record_2021_12_25_16_13_08_228.gif)
