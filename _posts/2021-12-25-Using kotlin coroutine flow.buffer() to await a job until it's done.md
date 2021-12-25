@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=B_3iTVJT8Zs&t=209s \
+https://www.youtube.com/watch?v=B_3iTVJT8Zs&t=209s 
 
 Suppose there's a job, a heavy one, being executed but the user wants to interact with components.
 There will be some abrupt come out.
