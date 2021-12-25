@@ -44,4 +44,4 @@ fun Greeting(name: String) {
 In action: \
 I do rapid clicking, to make sure the process inside prevents it
 
-<img src='/blob/master/Record_2021_12_25_16_13_08_228.gif'>
+<img src='/Record_2021_12_25_16_13_08_228.gif'>
