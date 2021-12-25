@@ -5,7 +5,7 @@ There will be some abrupt come out.
 
 Kotlin coroutine's flow can handle this thing.
 
-```
+```kotlin
 @Composable
 fun Greeting(name: String) {
     val text = remember { mutableStateOf("Hello $name") }
