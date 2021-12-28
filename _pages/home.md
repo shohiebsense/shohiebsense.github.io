@@ -48,7 +48,7 @@ Usually given for ones that is easily bored; is eager towards a particular assig
 Allows one mind to think other possibilities during a hands-on approach to a problem, and even other unrelated things if this skill is mismanaged. On top of that, it might bring impatience aura.
 
 #### Mind of Laziness: `D-Rank`
-Grants an orientation on one's mind that becomes 'constantly seeking of improvements on effectiveness and better efficiency' attitude on something. However, it brings some side effect on productivity rate.
+Grants an orientation on one's mind that becomes constantly seeking of improvements on effectiveness and better efficiency' attitude on something. However, it brings some side effect on productivity rate.
 
 
 
