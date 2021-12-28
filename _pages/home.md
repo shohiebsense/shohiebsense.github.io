@@ -26,7 +26,18 @@ Receive Money From Company Since: 2016
 
 ### Skills And Abilities
 
-#### `Luck`; S-Rank
+#### Luck; `S-Rank`
+A lifetime blessing that transcends across every dimension to break through natural limitations, also enable one's endeavor be well-executed or mitigates the failure into favorable outcomes.
+
+#### Wish: `S-Rank`
+Enhances one's preparation to increases seamless rate on execution towards objective that has been set beforehand.
+
+#### Conjecture Frenzy: `C-Rank`
+Allows one mind to think other possibilities during hands-on approach to a problem, and even other unrelated things if this skill is mismanaged.
+
+#### Mind of Laziness: `D-Rank`
+Grants an orientation on one's mind that becomes 'constantly seeking of improvements on effectiveness and better efficiency' attitude on something. However, it brings some side effect on productivity rate.
+
 
 
 ## Familiarized Stacks And Libraries
