@@ -29,11 +29,23 @@ Receive Money From Company Since: 2016
 #### Luck; `S-Rank`
 A lifetime blessing that transcends across every dimension to break through natural limitations, also enable one's endeavor be well-executed or mitigates the failure into favorable outcomes.
 
-#### Wish: `S-Rank`
-Enhances one's preparation to increases seamless rate on execution towards objective that has been set beforehand.
+#### Prayer and Wish: `S-Rank`
+Enhances one's preparation to increases optimism in mind, also seamless rate on execution towards objective that has been set beforehand.
 
-#### Conjecture Frenzy: `C-Rank`
-Allows one mind to think other possibilities during hands-on approach to a problem, and even other unrelated things if this skill is mismanaged.
+#### Expansionist: `A-Rank`
+A stance that enables one to grow their aptitude by adapting to new technologies readily.
+
+#### Resilience: `A-Rank`
+It affects one to be selective towards food and activities in an exchange to get better degree of healthiness.
+
+#### Inquisition : `B-Rank`
+This skill holder is curious, valuing options when using tools. 
+
+#### Eager: `C-Rank`
+Usually given for ones that is easily bored; is eager towards a particular assignment.
+
+#### Thinking Frenzy: `C-Rank`
+Allows one mind to think other possibilities during a hands-on approach to a problem, and even other unrelated things if this skill is mismanaged. On top of that, it might bring impatience aura.
 
 #### Mind of Laziness: `D-Rank`
 Grants an orientation on one's mind that becomes 'constantly seeking of improvements on effectiveness and better efficiency' attitude on something. However, it brings some side effect on productivity rate.
