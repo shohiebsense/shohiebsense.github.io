@@ -36,7 +36,7 @@ Enhances one's preparation to increases optimism in mind, also seamless rate on 
 A stance that enables one to grow their aptitude by adapting to new technologies readily.
 
 #### Resilience: `A-Rank`
-It affects one to be selective towards food and activities in an exchange to get better degree of healthiness.
+It affects one to be selective towards food and activities in an exchange to get better degree of healthiness. It also indicates that one does not easily accept failures, making their stubbornness come out.
 
 #### Inquisition : `B-Rank`
 This skill holder is curious, valuing options when using tools. 
