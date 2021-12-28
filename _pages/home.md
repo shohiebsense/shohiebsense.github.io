@@ -42,7 +42,7 @@ It affects one to be selective towards food and activities in an exchange to get
 This skill holder is curious, valuing options when using tools. 
 
 #### Eager; `C-Rank`
-Usually given for ones that is easily bored; is eager towards a particular assignment.
+Usually given for ones that are easily bored; is eager towards a particular assignment.
 
 #### Thinking Frenzy; `C-Rank`
 Allows one mind to think other possibilities during a hands-on approach to a problem, and even other unrelated things if this skill is mismanaged. On top of that, it might bring impatience aura.
