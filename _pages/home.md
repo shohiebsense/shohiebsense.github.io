@@ -45,7 +45,7 @@ This skill holder is curious, valuing options when using tools.
 Usually given for ones that are easily bored; is eager towards a particular assignment.
 
 #### Thinking Frenzy; `C-Rank`
-Allows one mind to think other possibilities during a hands-on approach to a problem, and even other unrelated things if this skill is mismanaged. On top of that, it might bring impatience aura.
+Allows one's mind to think other possibilities during a hands-on approach to a problem, and even other unrelated things if this skill is mismanaged. On top of that, it might bring impatience aura.
 
 #### Mind of Laziness; `D-Rank`
 Grants an orientation on one's mind to have 'constantly seeking of improvements on effectiveness and better efficiency' attitude on something. However, it brings some side effect on productivity rate.
