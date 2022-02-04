@@ -44,4 +44,4 @@ fun Greeting(name: String) {
 In action: \
 I do rapid clicking, to make sure the process inside prevents it
 
-![Action](https://i.postimg.cc/PJT7F4cp/Record-2021-12-25-16-13-08-228.gif)
+![Action](https://i.postimg.cc/7ZvrhHNt/Record-2022-02-04-16-07-43-753.gif)
