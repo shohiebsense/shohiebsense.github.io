@@ -1,4 +1,4 @@
-1. You can either use ``BringIntoViewRequester`` read about it [here](https://medium.com/tech-takeaways/automatic-scrolling-to-composable-on-focus-change-with-bringintoviewrequester-in-jetpack-compose-bdeb72242bac)
+1. You can either use ``BringIntoViewRequester`` read about it [here](https://medium.com/tech-takeaways/automatic-scrolling-to-composable-on-focus-change-with-bringintoviewrequester-in-jetpack-compose-bdeb72242bac)  
 Read the documentation [here](https://developer.android.com/reference/kotlin/androidx/compose/foundation/relocation/BringIntoViewRequester)
 
 2. Or, use ``Modifier.onGloballyPositioned { coordinates -> //save the value }``
