@@ -7,9 +7,15 @@ create an object that stores your textfield state (position) say `textFieldState
 
 
 ```kotlin
-  fun onGloballyPositioned(coordinates: LayoutCoordinates) {
+  class TextFieldState {
+    ...  
+
+    fun onGloballyPositioned(coordinates: LayoutCoordinates) {
         scrollPosition = coordinates.positionInWindow().y.toInt()   
+    }
+    ...
   }
+
 ```
 
 next, getKeyboardVisibility
