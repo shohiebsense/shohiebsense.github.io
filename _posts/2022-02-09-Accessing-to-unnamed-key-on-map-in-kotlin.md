@@ -25,7 +25,7 @@
 }
 ```
 
-Suppose you don't use `retrofit` and you iterate using `Map` one by one.  
+Suppose you don't use `gson` and you iterate using `Map` one by one.  
   
  To get the specific object of `profiles`  
  you can do:
