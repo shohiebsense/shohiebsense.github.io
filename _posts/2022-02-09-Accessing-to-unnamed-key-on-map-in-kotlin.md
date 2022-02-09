@@ -29,7 +29,7 @@ Suppose you don't use `gson` and you iterate using `Map` one by one.
   
  To get the specific object of `profiles`  
  you can do:
- 1. cast the `profiles` as an ArrayList<Map<String, Any>>  
+ 1. cast the `profiles` as an `ArrayList<Map<String, Any>>`  
  ```val profileList = responseAsMap["profiles"] as ArrayList<Map<String, Any>>```  
  2. filter to get the specific object from the list  
  ```val personalData = profileList.filterList { this["type"] == "personal"}```  
