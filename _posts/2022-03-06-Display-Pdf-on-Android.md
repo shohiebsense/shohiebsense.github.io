@@ -50,7 +50,7 @@ you need a zoom, a scroll functionality
 
 google it.  
   
-TOr this is [a good repo](https://github.com/umutsoysl/ComposeZoomableImage) to do that  
+or this is [a good repo](https://github.com/umutsoysl/ComposeZoomableImage) to do that  
   
 use it, and put it up on `Image` compose.
   
@@ -64,7 +64,7 @@ It can differentate between scroll of Column/Row and the Image itself.
 5. Enable the Column/Row scrollable when the treshold and the offset is incremental (bigger `offset > x` or smaller `offset < x`) is `true`  
 6. Mind that `nestedScroll` functionality is required in this one, whether it is `NestedScrollConnection` or other approach.
 
-look up for enable/disable scroll in Column/Row.
+look up for enable/disable scroll in Column/Row.  
   
 or see this [stackoverflow](https://stackoverflow.com/a/69328009)  
   
