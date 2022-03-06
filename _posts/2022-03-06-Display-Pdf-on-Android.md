@@ -112,5 +112,5 @@ fun PdfSection(yourObjectPdfList: List<yourObjectPdf>){
 
 You definitely can do better :)  
 
-![Image](https://i.postimg.cc/L8Lzn4Bv/Record-2022-02-23-13-51-57-304.gif)
+![Image](https://i.postimg.cc/t4yQvBZc/Record-2022-03-06-22-06-55-408.gif)
   
