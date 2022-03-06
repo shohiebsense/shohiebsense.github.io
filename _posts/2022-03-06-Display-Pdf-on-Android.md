@@ -113,3 +113,4 @@ fun PdfSection(yourObjectPdfList: List<yourObjectPdf>){
 You definitely can do better :)  
 
 ![PdfAndroid](https://i.postimg.cc/t4yQvBZc/Record-2022-03-06-22-06-55-408.gif)
+  
