@@ -57,7 +57,7 @@ use it, and put it up on `Image` compose.
 then you realized again, I want `the next page` functionality using `scrollable` too
   
 1  You need a flag to detect the edge of Pdf Image.  
-It can differentate between scroll of Column/Row and the Image itself.   
+It can differentiate between scroll of Column/Row and the Image itself.   
 2. From number 1, you need flags for TopTreshold, RightTreshold, BottomTreshold and LeftTreshold.  
 3. You need mutable value of `scaleX` and `scaleY`
 4. Mind that if the scale is `1` (default), the edge flags are in no need.  
