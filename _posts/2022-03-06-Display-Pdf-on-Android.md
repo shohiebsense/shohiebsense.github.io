@@ -72,39 +72,54 @@ This is the sample of the idea.
 
 ```ScrollablePdfPage.kt
 @Composable
-fun PdfSection(yourObjectPdfList: List<yourObjectPdf>){
+fun PdfSection(yourObjectPdfList: List<yourObjectPdf>) {
     val isScrollAllowed = remember { mutableStateOf(false) }
-        
+
     LazyRow(
         state = listState,
         modifier = Modifier.disabledHorizontalPointerInputScroll(isScrollAllowed.value)
     ) {
         itemsIndexed(yourObjectPdfList) { index, yourObjectPdf ->
-                
-        yourObjectPdf.isXtreshold.value = translationX.absoluteValue == (scaleX / -0.005f).absoluteValue
-        if (yourObjectPdf.isXtreshold.value) {
-            yourObjectPdf.isXtresholdLeft.value =
-            translationX > 0 && translationX.absoluteValue < yourObjectPdf.offsetX.value
-        }
-                                        
-                
-        if(yourObjectPdf.scale > 1){
-            if (yourObjectPdf.isXtreshold.value) {
-                if (yourObjectPdf.isXtresholdLeft.value && offset.x < 0)
-                    yourObjectPdf.offsetX.value += offset.x
-                else if (!yourObjectPdf.isXtresholdLeft.value && offset.x > 0) {
-                    signPdf.offsetX.value += offset.x
-                } else if(yourObjectPdf.isXtresholdLeft.value && yourObjectPdf.offsetX.value <= yourObjectPdf.offsetX.value+offset.x ){
-                    isScrollAllowed.value = false
-                } else if(!yourObjectPdf.isXtresholdLeft.value && yourObjectPdf.offsetX.value >= yourObjectPdf.offsetX.value+offset.x ){
-                    isScrollAllowed.value = false
+            Box(modifier = Modifier.pointerInput * Unit) {
+                forEachGesture {
+                    awaitPointerEventScope {
+                        awaitFirstDown()
+                        do {
+
+                            yourObjectPdf.isXtreshold.value =
+                                translationX.absoluteValue == (scaleX / -0.005f).absoluteValue
+                            if (yourObjectPdf.isXtreshold.value) {
+                                yourObjectPdf.isXtresholdLeft.value =
+                                    translationX > 0 &&
+                                        translationX.absoluteValue < yourObjectPdf.offsetX.value
+                            }
+
+                            if (yourObjectPdf.scale > 1) {
+                                if (yourObjectPdf.isXtreshold.value) {
+                                    if (yourObjectPdf.isXtresholdLeft.value && offset.x < 0)
+                                        yourObjectPdf.offsetX.value += offset.x
+                                    else if (!yourObjectPdf.isXtresholdLeft.value && offset.x > 0) {
+                                        signPdf.offsetX.value += offset.x
+                                    } else if (yourObjectPdf.isXtresholdLeft.value &&
+                                            yourObjectPdf.offsetX.value <=
+                                                yourObjectPdf.offsetX.value + offset.x
+                                    ) {
+                                        isScrollAllowed.value = false
+                                    } else if (!yourObjectPdf.isXtresholdLeft.value &&
+                                            yourObjectPdf.offsetX.value >=
+                                                yourObjectPdf.offsetX.value + offset.x
+                                    ) {
+                                        isScrollAllowed.value = false
+                                    }
+                                }
+                            } else {
+                                isScrollAllowed.value = false
+                            }
+                        } while (event.changes.any { it.pressed })
+                    }
                 }
             }
         }
-            else {
-                isScrollAllowed.value = false
-            }
-        }       
     }
 }
 
