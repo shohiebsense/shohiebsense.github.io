@@ -77,10 +77,11 @@ fun PdfSection(yourObjectPdfList: List<yourObjectPdf>) {
 
     LazyRow(
         state = listState,
-        modifier = Modifier.disabledHorizontalPointerInputScroll(isScrollAllowed.value)
+        modifier = Modifier.disabledHorizontal
+        putScroll(isScrollAllowed.value)
     ) {
         itemsIndexed(yourObjectPdfList) { index, yourObjectPdf ->
-            Box(modifier = Modifier.pointerInput * Unit) {
+            Box(modifier = Modifier.pointerInput(Unit) {
                 forEachGesture {
                     awaitPointerEventScope {
                         awaitFirstDown()
