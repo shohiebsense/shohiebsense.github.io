@@ -43,7 +43,7 @@ You get the idea know.
 
 ok, that's the part one.
 
-the rest is display the pdf bitmap to UI.
+the rest is to display the pdf bitmap to UI.
 
 Then you realized  
 you need a zoom, a scroll functionality  
