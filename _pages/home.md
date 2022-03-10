@@ -68,7 +68,7 @@ Grants an orientation on one's mind to have 'constantly seeking of improvements 
 
 ## Tech Stacks To Familiarize 2022
 
-`Haven't decided it yet`
+`Rust Web Assembly, anything using Rust`
 
 # Wait, I learn, and still never learn :biblethump:  
 ## Tulis aja dulu yekan
