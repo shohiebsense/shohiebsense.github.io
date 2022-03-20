@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: 'Astrologaster Journey'
-    url: /astrologaster-journey/
-  - title: 'Development Journal'
-    url: https://github.com/shohiebsense/MyDevelopingJournal
   - title: 'Posts'
     url: /posts/
+  - title: 'Development Journal'
+    url: https://github.com/shohiebsense/MyDevelopingJournal
+  - title: 'Astrologaster Journey'
+    url: /astrologaster-journey/
   - title: 'Learn - Planetary Aspects'
     url: /learn-planetary-aspects/
   # - title: 'Past Events'
