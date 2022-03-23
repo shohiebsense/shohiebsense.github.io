@@ -53,7 +53,7 @@ like, only accepts pull request, and must up to date branch with the target (mas
 
 ![BranchProtectionRule](https://i.postimg.cc/sXKFGBsX/2022-03-23-11-15-32-New-branch-protection-rule-Mozilla-Firefox.png)
 
-If it clashes with the product team rule (e.g hold this module first before this, then the task is to regulate the branch to be always up-to-date.  
+If it clashes with the product team rule (e.g "hold this module first before that", then the task is to regulate the branch to be always up-to-date.  
 Use tags for helpers. Say you name it "postponed".  
 Every time the staging-production branch is updated, you have to pull to postponed.  
 It will be a bit of hassle, but it will save your precious time when you really need it.  
