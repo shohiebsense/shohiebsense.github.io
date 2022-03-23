@@ -28,6 +28,7 @@ adjust the branches' names to protect so that they suit your development.
 
 `git rev-parse --abbrev-ref HEAD` is to know the current branch.
 
+
 2. Since Git Hook runs locally, share to your team.
 
 [Here's how](https://www.viget.com/articles/two-ways-to-share-git-hooks-with-your-team/)
@@ -46,6 +47,7 @@ then create `Makefile`, add this script
 init:
   git config core.hooksPath .githooks
 ```
+
 
 3. Apply Branch protection rule
 
