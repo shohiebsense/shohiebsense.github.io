@@ -29,7 +29,7 @@ adjust the branches' names to protect so that they suit your development.
 `git rev-parse --abbrev-ref HEAD` is to know the current branch.
 
 
-***2\. Since Git Hook runs locally, share to your team.***
+**2\. Since Git Hook runs locally, share to your team.**
 
 [Here's how](https://www.viget.com/articles/two-ways-to-share-git-hooks-with-your-team/)
 
@@ -49,7 +49,7 @@ init:
 ```
 
 
-***3\. Apply Branch protection rule***
+**3\. Apply Branch protection rule**
 
 like, only accepts pull request, and must up to date branch with the target (master/main/development) first.
 
