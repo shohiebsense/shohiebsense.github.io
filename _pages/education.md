@@ -5,6 +5,10 @@ permalink: /astrologaster-journey/
 author_profile: true
 ---
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQr0xiledPQcFcZ4_BqbBkExj-zyjhaa1BAKwbmiGOrhdkgUPTmvvvqIik4-v9bkTIW_bddfY81LCFR/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+\
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbejkYCjweiGsWQp3yL3vFvd9QV-8ShG2UuG8AwIqJv0Paw8QcsNPRLCzNE5WNULAOP3ItAPEvwpXk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 \
