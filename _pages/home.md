@@ -15,7 +15,7 @@ redirect_from:
 Race: Human  
 Nationality: Indonesia  
 Generation: Z  
-He/Him  
+Stellaris  
 Memevore (Yes, eating memes)  
 Cofee & Tea  
 Mouse: Logitech G402  
@@ -26,7 +26,7 @@ Receive Money From Company Since: 2016
 
 ### Skills And Abilities
 
-#### Luck; `S-Rank`
+#### Fortuna; `S-Rank`
 A lifetime blessing that transcends across every dimension to break through natural limitations, also enable one's endeavor to be rightly-executed or mitigates the failure into favorable outcomes.
 
 #### Wish; `S-Rank`
