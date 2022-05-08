@@ -4,7 +4,7 @@ Right after seeing other apps can show a `.pdf` file on Android, you then wonder
 
 next, you know something that the idea is to transfer the pdf content on `bitmap`
 
-```
+```java
  public void render(@NonNull Bitmap destination, @Nullable Rect destClip,
                            @Nullable Matrix transform, @RenderMode int renderMode) {
 
@@ -24,7 +24,7 @@ You get the idea know.
 4. Send, or render the Pdf Contents to Bitmap
 5. `close()` the pdfRenderer including its `renderer.oopenPage` when every content has been rendered
 
-```
+```kotlin
     fun openPage() {
         pdfRenderer?.let { renderer ->
             for (i in 0 until renderer.pageCount) {
