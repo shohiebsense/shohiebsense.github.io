@@ -1,13 +1,13 @@
 Right after seeing other apps can show a `.pdf` file on Android, you then wonder how, googling, and stumbled upon the API documentation regarding it:
 
-[`PdfRenderer`](https://developer.android.com/reference/android/graphics/pdf/PdfRenderer)  
+[`PdfRenderer`](https://developer.android.com/reference/android/graphics/pdf/PdfRenderer)
 
 next, you know something that the idea is to transfer the pdf content on `bitmap`
 
-```PdfRenderer.java
+```
  public void render(@NonNull Bitmap destination, @Nullable Rect destClip,
                            @Nullable Matrix transform, @RenderMode int renderMode) {
-                          
+
  }
 ```
 
@@ -24,7 +24,7 @@ You get the idea know.
 4. Send, or render the Pdf Contents to Bitmap
 5. `close()` the pdfRenderer including its `renderer.oopenPage` when every content has been rendered
 
-```PdfService.kt
+```
     fun openPage() {
         pdfRenderer?.let { renderer ->
             for (i in 0 until renderer.pageCount) {
@@ -46,31 +46,32 @@ ok, that's the part one.
 the rest is to display the pdf bitmap to UI.
 
 Then you realized  
-you need a zoom, a scroll functionality  
+you need a zoom, a scroll functionality
 
-google it.  
-  
-or this is [a good repo](https://github.com/umutsoysl/ComposeZoomableImage) to do that  
-  
+google it.
+
+or this is [a good repo](https://github.com/umutsoysl/ComposeZoomableImage) to do that
+
 use it, and put it up on `Image` compose.
-  
+
 then you realized again, I want `the next page` functionality using `scrollable` too
-  
-1  You need a flag to detect the edge of Pdf Image.  
-It can differentiate between scroll of Column/Row and the Image itself.   
-2. From number 1, you need flags for TopTreshold, RightTreshold, BottomTreshold and LeftTreshold.  
+
+1 You need a flag to detect the edge of Pdf Image.  
+It can differentiate between scroll of Column/Row and the Image itself.
+
+2. From number 1, you need flags for TopTreshold, RightTreshold, BottomTreshold and LeftTreshold.
 3. You need mutable value of `scaleX` and `scaleY`
-4. Mind that if the scale is `1` (default), the edge flags are in no need.  
-5. Enable the Column/Row scrollable when the treshold and the offset is incremental (bigger `offset > x` or smaller `offset < x`) is `true`  
+4. Mind that if the scale is `1` (default), the edge flags are in no need.
+5. Enable the Column/Row scrollable when the treshold and the offset is incremental (bigger `offset > x` or smaller `offset < x`) is `true`
 6. Mind that `nestedScroll` functionality is required in this one, whether it is `NestedScrollConnection` or other approach.
 
-look up for enable/disable scroll in Column/Row.  
-  
-or see this [stackoverflow](https://stackoverflow.com/a/69328009)  
-  
-This is the sample of the idea.  
+look up for enable/disable scroll in Column/Row.
 
-```ScrollablePdfPage.kt
+or see this [stackoverflow](https://stackoverflow.com/a/69328009)
+
+This is the sample of the idea.
+
+```kotlin
 @Composable
 fun PdfSection(yourObjectPdfList: List<yourObjectPdf>) {
     val isScrollAllowed = remember { mutableStateOf(false) }
@@ -126,7 +127,6 @@ fun PdfSection(yourObjectPdfList: List<yourObjectPdf>) {
 
 ```
 
-You definitely can do better :)  
+You definitely can do better :)
 
 ![Image](https://i.postimg.cc/t4yQvBZc/Record-2022-03-06-22-06-55-408.gif)
-  

@@ -52,7 +52,7 @@ Then you learned what attributes that you can get
 
 it is from
 
-```.java
+```
 package com.google.mlkit.vision.face;
 
 ```
@@ -63,7 +63,7 @@ It produces the value right away after capturing.
 
 Read [this](https://developers.google.com/ml-kit/vision/face-detection/android)
 
-```.kt
+```
 val realTimeOpts = FaceDetectorOptions.Builder()
         .setContourMode(FaceDetectorOptions.CONTOUR_MODE_ALL)
         .build()

@@ -4,7 +4,7 @@
 
 Make a file named pre-commit
 
-```.sh
+```
 #!/bin/sh
 
 branch="$(git rev-parse --abbrev-ref HEAD)"
@@ -24,10 +24,10 @@ if [ "$branch" = "deployment-test" ]; then
   exit 1
 fi
 ```
+
 adjust the branches' names to protect so that they suit your development.
 
 `git rev-parse --abbrev-ref HEAD` is to know the current branch.
-
 
 **2\. Since Git Hook runs locally, share to your team.**
 
@@ -37,17 +37,16 @@ Check your git versions first, If it is 2.9 or greater, it will be more convenie
 
 I do the same as the article above, put the hook files inside `$project_root/.githooks/`
 
-```git
+```sh
 $ git config core.hooksPath .githooks
 ```
 
-then create `Makefile`, add this script 
+then create `Makefile`, add this script
 
-```Makefile
+```makefile
 init:
   git config core.hooksPath .githooks
 ```
-
 
 **3\. Apply Branch protection rule**
 

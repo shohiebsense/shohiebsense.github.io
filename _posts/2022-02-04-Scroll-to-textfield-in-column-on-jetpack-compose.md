@@ -1,17 +1,16 @@
-1. You can either use ``BringIntoViewRequester`` read about it [here](https://medium.com/tech-takeaways/automatic-scrolling-to-composable-on-focus-change-with-bringintoviewrequester-in-jetpack-compose-bdeb72242bac)  
-Read the documentation [here](https://developer.android.com/reference/kotlin/androidx/compose/foundation/relocation/BringIntoViewRequester)
+1. You can either use `BringIntoViewRequester` read about it [here](https://medium.com/tech-takeaways/automatic-scrolling-to-composable-on-focus-change-with-bringintoviewrequester-in-jetpack-compose-bdeb72242bac)  
+   Read the documentation [here](https://developer.android.com/reference/kotlin/androidx/compose/foundation/relocation/BringIntoViewRequester)
 
-2. Or, use ``Modifier.onGloballyPositioned { coordinates -> //save the value }``
+2. Or, use `Modifier.onGloballyPositioned { coordinates -> //save the value }`
 
 create an object that stores your textfield state (position) say `textFieldState`.
 
-
 ```kotlin
   class TextFieldState {
-    ...  
+    ...
 
     fun onGloballyPositioned(coordinates: LayoutCoordinates) {
-        scrollPosition = coordinates.positionInWindow().y.toInt()   
+        scrollPosition = coordinates.positionInWindow().y.toInt()
     }
     ...
   }
@@ -76,7 +75,9 @@ fun HandleBottomTextField(
     }
 }
 ```
+
 you can adjust yourself regarding the value
+
 ```kotlin
 fun getScrollByValue(isPositionBelowCurrentScrollState: Boolean,
                      textFieldScrollPosition: Int) : Float {
@@ -90,6 +91,6 @@ fun getScrollByValue(isPositionBelowCurrentScrollState: Boolean,
 }
 ```
 
-there it goes  
+there it goes
 
 ![Action](https://i.postimg.cc/7ZvrhHNt/Record-2022-02-04-16-07-43-753.gif)
