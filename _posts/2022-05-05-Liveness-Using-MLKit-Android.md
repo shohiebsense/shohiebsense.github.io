@@ -1,9 +1,9 @@
 Integrate with CameraX by adding `ImageAnalysis.Analyzer` when build `ImageAnalysis`
 
-```.kt
+```
 
 val cameraExecutors = Executors.newSingleThreadExecutor()
-   
+
 ImageAnalysis.Builder()
             .setTargetRotation(Surface.ROTATION_0)
             .build()
@@ -18,10 +18,9 @@ ImageAnalysis.Builder()
             }
 ```
 
-{: .notice}
-
 get the image from this overriden function
-```.kt
+
+```
  override fun analyze(image: ImageProxy) {
           imageProxy.image?.let { it ->
 
@@ -30,12 +29,11 @@ get the image from this overriden function
                 imageProxy.imageInfo.rotationDegrees
             )
        }
-       
+
        detector.process(image)
        ...
     }
 ```
-
 
 Read [this](https://developers.google.com/ml-kit/vision/face-detection/face-detection-concepts)
 
@@ -53,6 +51,7 @@ Then you learned what attributes that you can get
 ```
 
 it is from
+
 ```.java
 package com.google.mlkit.vision.face;
 
@@ -64,12 +63,11 @@ It produces the value right away after capturing.
 
 Read [this](https://developers.google.com/ml-kit/vision/face-detection/android)
 
-
 ```.kt
 val realTimeOpts = FaceDetectorOptions.Builder()
         .setContourMode(FaceDetectorOptions.CONTOUR_MODE_ALL)
         .build()
-        
+
 val detector = FaceDetection.getClient(realTimeOpts)
 
 val result = detector.process(image)
