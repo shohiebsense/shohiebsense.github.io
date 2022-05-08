@@ -1,6 +1,6 @@
 Integrate with CameraX by adding `ImageAnalysis.Analyzer` when build `ImageAnalysis`
 
-```
+```kotlin
 
 val cameraExecutors = Executors.newSingleThreadExecutor()
 
@@ -20,7 +20,7 @@ ImageAnalysis.Builder()
 
 get the image from this overriden function
 
-```
+```kotlin
  override fun analyze(image: ImageProxy) {
           imageProxy.image?.let { it ->
 
@@ -63,7 +63,7 @@ It produces the value right away after capturing.
 
 Read [this](https://developers.google.com/ml-kit/vision/face-detection/android)
 
-```
+```kotlin
 val realTimeOpts = FaceDetectorOptions.Builder()
         .setContourMode(FaceDetectorOptions.CONTOUR_MODE_ALL)
         .build()
