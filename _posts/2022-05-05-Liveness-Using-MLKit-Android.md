@@ -18,6 +18,8 @@ ImageAnalysis.Builder()
             }
 ```
 
+{: .notice}
+
 get the image from this overriden function
 ```.kt
  override fun analyze(image: ImageProxy) {
