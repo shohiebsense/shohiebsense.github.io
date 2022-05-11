@@ -1,6 +1,8 @@
 You Likely Get Your Nerves High
 
-## Ease Yourself, Get a Fulfillable Rest
+## Ease Yourself, Get a Fulfillable Rest  
+
+Rilak ae rilak... relax  
 
 If you feel restless, play some simple-visual-rich games
 
