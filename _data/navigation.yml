@@ -8,5 +8,7 @@ main:
     url: /astrologaster-journey/
   - title: 'Learn - Planetary Aspects'
     url: /learn-planetary-aspects/
+  - title: 'Course Journey'
+    url: /course-journey/
   # - title: 'Past Events'
   #   url: /past-events/
