@@ -80,7 +80,7 @@ analytics:
 author:
   name: 'Shohieb Nasruddin'
   avatar: 'profile.png'
-  bio: 'https://saweria.co/shohieb'
+  bio: ''
   location: 'Bandung'
   discord: '363307853563428864'
   employer:
@@ -88,7 +88,7 @@ author:
   googlescholar:
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
-  uri: 
+  uri:
   bitbucket:
   codepen:
   dribbble:
@@ -179,7 +179,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  courses:
     output: true
     permalink: /:collection/:path/
 
@@ -233,9 +233,9 @@ defaults:
   # _talks
   - scope:
       path: ''
-      type: talks
+      type: courses
     values:
-      layout: talk
+      layout: course
       author_profile: true
       share: true
 
