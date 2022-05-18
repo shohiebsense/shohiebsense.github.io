@@ -1,4 +1,12 @@
-You Likely Get Your Nerves High
+---
+title: 'Aquarius Energy'
+collection: course
+type: 'Others'
+permalink: /course/self-sabotaging
+venue: 'Imagination'
+date: 2021-08-01
+location: 'Space'
+---
 
 ## Ease Yourself, Get a Fulfillable Rest
 
