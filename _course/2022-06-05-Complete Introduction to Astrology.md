@@ -8,7 +8,7 @@ date: 2022-06-05
 location: 'Space'
 ---
 
-## Chart Basics, Planet, Signs, Houses, Aspects, Nodes. Its sections (duration) is big tho, not chunked into the small part
+## Chart Basics, Planet, Signs, Houses, Aspects, Nodes. Its sections (duration) is big tho, not chunked into small parts
 
 It's okayish, definitely there are better ones out there.
 
