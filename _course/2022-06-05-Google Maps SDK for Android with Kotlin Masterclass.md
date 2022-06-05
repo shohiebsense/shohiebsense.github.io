@@ -1,5 +1,5 @@
 ---
-title: 'Google Maps SDK for Android with Kotlin | Masterclass'
+title: 'Google Maps SDK for Android with Kotlin Masterclass'
 collection: course
 type: 'Others'
 permalink: /course/google-maps-sdk-for-android-with-kotlin-masterclass
