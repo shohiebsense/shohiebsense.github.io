@@ -3,8 +3,8 @@ title: 'The Complete Flutter and Dart Guide'
 collection: course
 type: 'Others'
 permalink: /course/the-complete-flutter-and-dart-guide
-venue: 'Imagination'
-date: 2021-08-01
+venue: 'Courses'
+date: 2022-06-05
 location: 'Space'
 ---
 
