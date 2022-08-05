@@ -32,6 +32,7 @@ CompositionLocalProvider(LocalRippleTheme provides CustomRippleTheme(color: Desi
 
 ```
 
+
 3. If it is not a `Button` you can add `clickable{}` Modifier, no need to add other arguments
 
 ```kotlin
