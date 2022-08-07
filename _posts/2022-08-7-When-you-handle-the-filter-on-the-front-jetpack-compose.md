@@ -86,7 +86,7 @@ Modifier.clickable {
         .subList(1, addedFilterList.size)
         .isNotEmpty() ||
         addedFilterList[0] !=
-            BuildConfig.FILTER_LOAN_PRODUCT_SEMUA
+            BuildConfig.PRODUCT_TYPE_ALL
 ) {
     addedFilterList.clear()
 }
@@ -124,8 +124,8 @@ private fun FilterLaunchedEffect(
     statusList: ArrayList<String>,
     addedFilterList: ArrayList<String>,
     isCheckedStateList: ArrayList<Boolean>,
-    loanTransactionList: SnapshotStateList<Loan>,
-    allLoanTransactionList: ArrayList<Loan>,
+    transactionList: SnapshotStateList<YourObj>,
+    allTransactionList: ArrayList<YourObj>,
     onFilterSubmitted: () -> Unit
 ) {
     LaunchedEffect(
@@ -156,8 +156,8 @@ private fun FilterLaunchedEffect(
             } else {
                 transactionList.clear()
 
-                val filteredList = arrayListOf<Loan>()
-                filteredList.addAll(loanTransactionList)
+                val filteredList = arrayListOf<YourObj>()
+                filteredList.addAll(transactionList)
 
                 addFilterByProductCandidateList(
                     isAllProductTypeSelected,
@@ -174,7 +174,7 @@ private fun FilterLaunchedEffect(
                     filteredList
                 )
 
-                loanTransactionList.addAll(filteredList)
+                transactionList.addAll(filteredList)
             }
         }
 
@@ -187,7 +187,7 @@ private fun addFilterByProductCandidateList(
     isAllProductTypeSelected: Boolean,
     addedFilterList: ArrayList<String>,
     filterProductCandidateList: ArrayList<(String) -> Boolean>,
-    filteredList: ArrayList<Loan>
+    filteredList: ArrayList<YourObj>
 ) {
     if (!isAllProuctTypeSelected()) {
         addedFilterList.forEach {
@@ -198,9 +198,9 @@ private fun addFilterByProductCandidateList(
     }
 
     if (filterProductCandidateList.isNotEmpty()) {
-        filteredList.filterAndUpdateList { loan ->
+        filteredList.filterAndUpdateList { yourObj ->
             filterProductCandidateList.any { product ->
-                product(loan.getProductTypeEdu())
+                product(yourObj.getProductType())
             }
         }
     }
@@ -212,7 +212,7 @@ private fun addFilterByStatusCandidateList(
     isAllStatusChecked: Boolean,
     isCheckedStateList: ArrayList<Boolean>,
     filterStatusCandidateList: ArrayList<(String) -> Boolean>,
-    filteredList: ArrayList<Loan>
+    filteredList: ArrayList<YourObj>
 ) {
     if (!isSemuaChecked) {
         isCheckedStateList.forEachIndexed { index, isChecked ->
@@ -225,7 +225,7 @@ private fun addFilterByStatusCandidateList(
     }
 
     if (filterStatusCandidateList.isNotEmpty()) {
-        filteredList.filterAndUpdateList { loan ->
+        filteredList.filterAndUpdateList { yourObj ->
             filterStatusCandidateList.any { statusName ->
                 status(
                     statusName
