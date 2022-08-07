@@ -121,9 +121,9 @@ if (isAllTypeClicked(addedFilterList)) {
 @Composable
 private fun FilterLaunchedEffect(
     isFilterSubmitted: MutableState<Boolean>,
+    statusList: ArrayList<String>,
     addedFilterList: ArrayList<String>,
-    isCHeckedStateList: ArrayList<Boolean>,
-    filterByStatusOptionTextFieldState: FilterByLoanStatusOptionTextFieldState,
+    isCheckedStateList: ArrayList<Boolean>,
     loanTransactionList: SnapshotStateList<Loan>,
     allLoanTransactionList: ArrayList<Loan>,
     onFilterSubmitted: () -> Unit
@@ -167,7 +167,7 @@ private fun FilterLaunchedEffect(
                 )
 
                 addFilterByStatusCandidateList(
-                    itemList, //status list 
+                    statusList, //status list 
                     isAllStatusChecked: Boolean,
                     isCheckedStateList: ArrayList<Boolean>,
                     filterStatusCandidateList,
