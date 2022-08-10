@@ -19,7 +19,7 @@ YourAnimatedComposable() {
     var radius by remember { mutableStateOf(particleRadius) }
     var visibilityAlpha by remember { mutableStateOf(0f) }
     var visibilityAlphaTitleRow by remember { mutableStateOf(0f) }
-    val isVisible = remember { mutableStateOf(false) }
+    var isVisible by remember { mutableStateOf(false) }
 
     val animatedRadius = remember { Animatable(shapeRadius) }
     val animatedRadiusTitle = remember { Animatable(shapeRadius) }
