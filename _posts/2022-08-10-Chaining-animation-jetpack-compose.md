@@ -16,10 +16,12 @@ sample:
 YourAnimatedComposable() {
     val shapeRadius: Float
     with(LocalDensity.current) { shapeRadius = 10.dp.toPx() }
-    var radius by remember { mutableStateOf(particleRadius) }
-    var visibilityAlpha by remember { mutableStateOf(0f) }
-    var visibilityAlphaTitleRow by remember { mutableStateOf(0f) }
-    var isVisible by remember { mutableStateOf(false) }
+    
+    val radius = remember { mutableStateOf(shapeRadius) }
+    val visibilityAlpha = remember { mutableStateOf(0f) }
+    val visibilityAlphaTitleRow =remember { mutableStateOf(0f)}
+    val isVisibleState = remember { mutableStateOf(false)}
+
 
     val animatedRadius = remember { Animatable(shapeRadius) }
     val animatedRadiusTitle = remember { Animatable(shapeRadius) }
@@ -46,7 +48,7 @@ YourAnimatedComposable() {
                             else
                                 Edufund_Background2_Color_List[
                                     componentParameter.backgroundColorIndex],
-                        radius = radius
+                        radius = radius.value
                     )
                 }
                 .alpha(visibilityAlphaTitleRow)
@@ -75,36 +77,34 @@ YourAnimatedComposable() {
 private fun ChainingAnimationLaunchedEffect(
     isVisible: MutableState<Boolean>,
     animatedRadius: Animatable<Float, AnimationVector1D>,
-    radius: Float,
+    radius: MutableState<Float>,
     animatedAlphaTitle: Animatable<Float, AnimationVector1D>,
-    visibilityAlphaTitleRow: Float,
+    visibilityAlphaTitleRow: MutableState<Float>,
     animatedAlpha: Animatable<Float, AnimationVector1D>,
-    visibilityAlpha: Float
+    visibilityAlpha: MutableState<Float>
 ) {
-    var radius1 = radius
-    var visibilityAlphaTitleRow1 = visibilityAlphaTitleRow
-    var visibilityAlpha1 = visibilityAlpha
+
     if (!isVisible.value) {
         LaunchedEffect(!isVisible.value) { isVisible.value = true }
     }
 
     if (isVisible.value) {
         LaunchedEffect(isVisible.value) {
-            animatedRadius.animateTo(maxRadiusPx, animationSpec = tween()) { radius1 = value }
+            animatedRadius.animateTo(maxRadiusPx, animationSpec = tween()) { radius.value = value }
             delay(100L)
         }
     }
 
-    if (radius1 >= (maxRadiusPx * 0.825f)) {
-        LaunchedEffect(radius1 >= (maxRadiusPx * 0.8f)) {
+    if (radius.value >= (maxRadiusPx * 0.825f)) {
+        LaunchedEffect(radius.value >= (maxRadiusPx * 0.8f)) {
             animatedAlphaTitle.animateTo(1f, animationSpec = tween()) {
                 visibilityAlphaTitleRow1 = value
             }
         }
     }
 
-    if (radius1 == maxRadiusPx && visibilityAlphaTitleRow1 == 1f) {
-        LaunchedEffect(radius1 == maxRadiusPx && visibilityAlphaTitleRow1 == 1f) {
+    if (radius.value == maxRadiusPx && visibilityAlphaTitleRow1 == 1f) {
+        LaunchedEffect(radius.value == maxRadiusPx && visibilityAlphaTitleRow1 == 1f) {
             delay(150L)
             animatedAlpha.animateTo(1f, animationSpec = tween()) { visibilityAlpha1 = value }
         }
