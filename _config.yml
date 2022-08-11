@@ -170,6 +170,9 @@ kramdown:
 
 # Collections
 collections:
+  adultpoints:
+    output: true
+    permalink: /:collection/:path/
   planetary:
     output: true
     permalink: /:collection/:path/
@@ -214,6 +217,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _
+  - scope:
+      path: ''
+      type: adultpoints
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
