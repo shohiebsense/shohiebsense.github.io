@@ -2,7 +2,7 @@
 title: 'Cara Buat SKCK Bandung Raya Online'
 collection: adultpoints
 type: 'Others'
-permalink: /adult-points/cara-buat-skck
+permalink: /adult-points/cara-buat-skck-bandung-raya-online
 venue: 'Adult Points'
 date: 2022-08-12
 location: 'Space'
