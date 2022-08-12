@@ -20,6 +20,6 @@ atau pake tukang (di sana ada yang nawarin)
 7. Terus dipanggil, diliatin bpkb lagi, ditanya kamu siapa (yang nganter atau diri sendiri)
 8. Disuruh tunggu lagi, dipanggil namanya, biasanya di counter lain buat bayar
 9. Udah dipanggil, samperin, terus bayar, dapet stnk baru sama semacam kwitansi
-10. Dapet kwitansi gitu, terus ke tempat pembuatan plat nomor baru
+10. Dapet kwitansi gitu, terus ke tempat pembuatan plat nomor baru, serahin plat lama  
 11. Tunggu lagi, terus dapet (ga lama yang ini)
 12. Udah jadi, mau dibongkar sendiri atau ke orang sekitar bongkarin bayar 10-20k 
