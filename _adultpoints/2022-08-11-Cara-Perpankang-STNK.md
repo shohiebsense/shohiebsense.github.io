@@ -4,7 +4,7 @@ collection: adultpoints
 type: 'Others'
 permalink: /adult-points/cara-perpanjang-stnk
 venue: 'Adult Points'
-date: 2022-06-05
+date: 2022-08-12
 location: 'Space'
 ---
 
