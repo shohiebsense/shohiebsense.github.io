@@ -11,6 +11,7 @@ location: 'Space'
 1. Bawa Obeng / Peralatan lain buat bongkar plat nomor
 atau kalau ga bawa bisa (di bawa plat barunya ke rumah)  
 atau pake tukang (di sana ada yang nawarin)
+
 2. Tempat parkirnya untuk perpanjang dipisah dari bayar pajak biasa, biasanya lebih luas / berupa lapangan, tanya aja orang langsung tau.
 3. Bawa dokumen persyaratan (BPKB Asli + kopi, KTP Asli si punya BPKB + kopi) yang BPKB harusnya cuma diliatin doang terus dicocokin sama KTP (sama sambil googling ya)
 4. Serahin dokumen-nya ke meja yang sekitar di area kamu parkir khusus perpanjang STNK itu.
