@@ -13,6 +13,7 @@ Calling Function in a class  -->  the entity in a calling function class  -> **t
  1. Make an Interface that contains a desired MutableSharedFlow<YourDesiredEntityToEmit>  
  2. Implements both the entity that has source to emit and the entity that collects it with that Interface  
  3. Using `yourMutableSharedFlow.emit(YourDesiredEntityToEmit)` wrap it inside a `coroutineScope` inside a class that will emit the source    
+ 4. Using `yourMutableSharedFlow.collect{ yourEntity -> }` call it in the class that will collect the emitted source, after you initialize the class, and wrap it inside a `coroutineScope`  
   
   sample    
   ```kotlin
@@ -21,7 +22,6 @@ fun onSourceOfTruthCaptured(sourceOfTruth: T) {
 }
   ```  
 
- 4. Using `yourMutableSharedFlow.collect{ yourEntity -> }` call it in the class that will collect the emitted source, after you initialize the class, and wrap it inside a `coroutineScope`  
   
   sample    
   ```kotlin
