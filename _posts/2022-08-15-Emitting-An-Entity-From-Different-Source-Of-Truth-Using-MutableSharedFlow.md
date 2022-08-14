@@ -8,7 +8,7 @@ Calling Function in a class  -->  the entity in a calling function class  -> **t
  ```
  
  If it's in the same structure of calling class, then, there's no need, the ability will be wasted anyway. Just handle it in the calling function class.  
- If it's similar to that case up there, then proceed to make a cleaner, lazier way  
+ If it's similar to that case up there, then proceed to make a cleaner, lazier way like as follows
  
  1. Make an Interface that contains a desired MutableSharedFlow<YourDesiredEntityToEmit>  
  2. Implements both the entity that has source to emit and the entity that collects it with that Interface  
