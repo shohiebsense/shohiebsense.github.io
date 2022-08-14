@@ -20,7 +20,7 @@ fun onSourceOfTruthCaptured(sourceOfTruth: T) {
     coroutineScope.launch { yourMutableSharedFlow.emit(sourceOfTruth) }
 }
   ```  
- 
+
  4. Using `yourMutableSharedFlow.collect{ yourEntity -> }` call it in the class that will collect the emitted source, after you initialize the class, and wrap it inside a `coroutineScope`  
   
   sample    
