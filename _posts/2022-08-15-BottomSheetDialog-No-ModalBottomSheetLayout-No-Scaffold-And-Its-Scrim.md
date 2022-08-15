@@ -4,7 +4,7 @@ Say you want to make a BottomSheetDialog that:
 3. Just a simple one (visible and inVisible), 
 4. As for implications there's no need `modalBottomSheetState` just visible (expand) and hide (invisible)
 
-Have a look at the codebase [here](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/material/material/src/commonMain/kotlin/androidx/compose/material/ModalBottomSheet.kt)  
+Have a look at the codebase [here](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/material/material/src/commonMain/kotlin/androidx/compose/material/ModalBottomSheet.kt), the `ModalBottomSheetLayout()` part  
 
 You realize the `ModalBottomSheetLayout` is using `BoxConstraintLayout`  
 
