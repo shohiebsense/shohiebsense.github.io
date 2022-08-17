@@ -8,3 +8,22 @@ Right,
 5. Like you read that title, once again I'm saying, stick it to one reference, if you placed in a `viewModel`, just refer to it only.
     it won't work if you try to manipulate a list that makes it has a new reference to a variable again with desired criteria (filtered, sublisted, etc.), but for helpers (just for read-only variable, OK)
 6. Wrap Using `SideEffects` if it's a direct parent of an element, say,  you want to make a trigger after doing action on an element of the array, then wrap it using that direct array
+  
+Example
+
+```kotlin
+    val isMonthlyDataCheckedList = mutableStateListOf<Pair<Boolean, SnapshotStateList<Pair<Boolean, Boolean>>>>()
+    
+```  
+
+The `LaunchedEffect` will be  
+```
+if ( viewModel.isMonthlyDataCheckedList.any { monthlyData -> monthlyData.second.any { it.second } }) {
+    LaunchedEffect(
+        viewModel.isMonthlyDataCheckedList.any { dailyData -> dailyData.second.any { it.second } }
+    ) {
+        //yourCode
+    }
+}
+
+```
