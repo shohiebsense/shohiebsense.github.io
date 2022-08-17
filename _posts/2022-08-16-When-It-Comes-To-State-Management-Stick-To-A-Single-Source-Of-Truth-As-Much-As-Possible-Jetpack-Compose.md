@@ -17,7 +17,7 @@ Example
 ```  
 
 The `LaunchedEffect` will be  
-```
+```kotlin
 if ( viewModel.isMonthlyDataCheckedList.any { monthlyData -> monthlyData.second.any { it.second } }) {
     LaunchedEffect(
         viewModel.isMonthlyDataCheckedList.any { dailyData -> dailyData.second.any { it.second } }
