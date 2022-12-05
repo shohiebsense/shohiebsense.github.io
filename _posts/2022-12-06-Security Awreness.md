@@ -21,4 +21,19 @@
 21. Hashes Algorithms (The general ones are the unkeyed ones) give fixed length, hash while MAC Hashes provivdes cryptograpchic algorithm (assymmetric key encryption algorithms)
 22. Common Digital Signature Algorithms: RSA, Digital Signature Algorithm, Elliptic Curve Digital Signature algorithm, ElGamal.
 23. Choosing Protocols and Algorithms: Avoid proprietaary crpythographic algorithms and protocols. Avoid using outdated algorithms  (MD5, SHA-0, SHA-1), symmetric encryptions (DES, RC4), and protocols (SSL 1.0, 2.0, 3.0, TLS 1.0)
-24. 
+24. Source of Troubles (Connectivity, Complexity, Extensibility).
+25. Encryption Better Pratices: (1) Use TLS, HTTPS, Implements HTTP Strict Transport Security Header, Use `Secure` flag on all over cookies, Do not pass sensitive information in the URL, use private key to generate HTTPS Certificates, use strong HTTPS Protocol and chiper configurations.
+26. Protect Sensitive Keys (never expose sensitve keys in source code and configuration files).
+27. AES-GCM over AES-CBC.
+28. Full disk encryption where sensitive data is stored.
+29. Source of Injection Attacks (SQL Statements, LDAP Queries, OS Shell Commnds (string-based commands), XML Parser (XML, DTD, XPath Queries), Cross-Site Scripting (XSS): Accessing the Session ID Value, fake login popups, ketystokes.
+30. Avoid URL Redirects if it's possible. Or explicitly declare the URL (whitelisting) and deny all other routes, redirect validation/
+31. Password protection: (1) Strong password, (2) Change and Reset Controls, (3) Adaptive One-Way Functions, (4) Multi Factor Authentication, (5) Reauthentication, (6) Access Denial by Default, (7) Least Privilege
+32. Don'ts: Exposing the cookie to insecure traansfer protocol, multiple applications, Cookies without expiration, Predictable Session ID, allowing Cookie to be accessed by client-side scripts.
+34. Cross-Site Request Forgery: Bypassing Sessioned Https Requests, Avoid this by: Use framework specific protection method, implement synchronizer token in a hidden HTML field, include CSRF tokens in Javascript Requests, do Re-authentications, Do state-changing functions only via POST, Double-submit cookie pattern.
+35. Add cookie flags: `SameSite`, `HttpOnly`
+36. Session ID Timeouts: Absolute Timeouts, Idle Timeouts.
+37. Session ID should never be predictable.
+38. Check **OWASP Dependency Check** for info about third party libraries.
+39. Tools: Firewalls, Alerts and Logging, Detection, Honeypots.
+40. Cookie vulnerability example: intercepting proxy to modify certain cookie value.
