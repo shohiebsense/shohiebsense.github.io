@@ -37,3 +37,4 @@
 38. Check **OWASP Dependency Check** for info about third party libraries.
 39. Tools: Firewalls, Alerts and Logging, Detection, Honeypots.
 40. Cookie vulnerability example: intercepting proxy to modify certain cookie value.
+41. Owasp Top 10: (1) Injection, (2) Broken Authenticartion, (3) Sensive Data Exposure, (4) XML External Entities, (5) Broken Access Control, (6) Security Misconfigurations, (7) Cross-Site Scripting, (8) Insecure Desentriaaalization, (9) Components or thired party libraries with Known Vulberabilities, (10) Insufficient Logging and Monitoring.
