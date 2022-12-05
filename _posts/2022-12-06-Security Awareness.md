@@ -1,3 +1,5 @@
+Ok,
+
 1. Software Development should keep 'secure' in mind from the start and throught SDLC process.
 2. Be careful during code Reviews (access modifiers), Third party libraries usage, or modules that are developed by third-party vendors.
 3. Make some technical standards, coding guidelines, and reference frameworks (find out if the third party libraaries have any issues with security vulnerabilities).
