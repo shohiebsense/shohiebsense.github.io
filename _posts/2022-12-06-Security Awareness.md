@@ -12,11 +12,11 @@
 12. Modern crptographic chipers: (1) Block Chipers = the message is longer in length than the block size, (2) Stream Chipers = a keystream (bits that is the same length as the data)
 13. Swap the currently using algorithm with the better ones once a serious weakness is discovered.
 14. Encryption Modes: (1). Electronic Codebook Mode (ECB), (2) Cipher Block Chaining (CBC) = the most commonly used, (3) Galois/counter Mode (GCM) = securely protect both confidentiality and integrity of data. Should be used if it's possible.
-15. Padding Models: (1) PKCS5 (2) PKCS7
+15. Padding Models: (1) PKCS5 (2) PKCS7.
 16. Asymmetric Key Algorithms: (1) RSA with Optional Asymmetric Encryption Padding (OAEP) should be used whenever possible.
 17. Common Hash Functions: MD5, SHA-1, SHA-2, SHA-3, SHA-224, SHA-256. SHA-384, SHA-512, SHA3-224, SHA3-256, SHA3-384, SHA3-512.
 18. Hash functions are irreversible, commonly used to store passwords altough the sole usage is not enough.
-19. Using Salt to add some protection layer (1) Salt + HMAC (Data with secret key) or (2) without secret key (Salt + Adaptive Hash)
+19. Using Salt to add some protection layer (1) Salt + HMAC (Data with secret key) or (2) without secret key (Salt + Adaptive Hash).
 20. Hash Functions: (1) Checksums, (2) Message Authentication Codes, (3) Digital Signatures.
 21. Hashes Algorithms (The general ones are the unkeyed ones) give fixed length, hash while MAC Hashes provivdes cryptograpchic algorithm (assymmetric key encryption algorithms)
 22. Common Digital Signature Algorithms: RSA, Digital Signature Algorithm, Elliptic Curve Digital Signature algorithm, ElGamal.
@@ -27,11 +27,11 @@
 27. AES-GCM over AES-CBC.
 28. Full disk encryption where sensitive data is stored.
 29. Source of Injection Attacks (SQL Statements, LDAP Queries, OS Shell Commnds (string-based commands), XML Parser (XML, DTD, XPath Queries), Cross-Site Scripting (XSS): Accessing the Session ID Value, fake login popups, ketystokes.
-30. Avoid URL Redirects if it's possible. Or explicitly declare the URL (whitelisting) and deny all other routes, redirect validation/
-31. Password protection: (1) Strong password, (2) Change and Reset Controls, (3) Adaptive One-Way Functions, (4) Multi Factor Authentication, (5) Reauthentication, (6) Access Denial by Default, (7) Least Privilege
+30. Avoid URL Redirects if it's possible. Or explicitly declare the URL (whitelisting) and deny all other routes, redirect validation.
+31. Password protection: (1) Strong password, (2) Change and Reset Controls, (3) Adaptive One-Way Functions, (4) Multi Factor Authentication, (5) Reauthentication, (6) Access Denial by Default, (7) Least Privilege.
 32. Don'ts: Exposing the cookie to insecure traansfer protocol, multiple applications, Cookies without expiration, Predictable Session ID, allowing Cookie to be accessed by client-side scripts.
 34. Cross-Site Request Forgery: Bypassing Sessioned Https Requests, Avoid this by: Use framework specific protection method, implement synchronizer token in a hidden HTML field, include CSRF tokens in Javascript Requests, do Re-authentications, Do state-changing functions only via POST, Double-submit cookie pattern.
-35. Add cookie flags: `SameSite`, `HttpOnly`
+35. Add cookie flags: `SameSite`, `HttpOnly`.
 36. Session ID Timeouts: Absolute Timeouts, Idle Timeouts.
 37. Session ID should never be predictable.
 38. Check **OWASP Dependency Check** for info about third party libraries.
