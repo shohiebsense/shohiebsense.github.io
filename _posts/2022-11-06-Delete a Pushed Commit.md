@@ -1,3 +1,4 @@
+Instead of revert, if you would like to delete a pushed commit,
 
 1. do:
 
