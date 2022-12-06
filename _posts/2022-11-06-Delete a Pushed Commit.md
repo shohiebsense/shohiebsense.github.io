@@ -1,7 +1,4 @@
 
-Instead of revert, if you would like to delete a pushed commit, 
-Go to settings / preferences -> search `optimize imports` then you will see `optimize imports on fly`, you can configure the rest.
-
 1. do:
 
    ```git
