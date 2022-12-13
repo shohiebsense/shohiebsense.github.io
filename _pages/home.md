@@ -16,6 +16,7 @@ Race: Human
 Nationality: Indonesia  
 Generation: Z  
 Stellaris  
+Duolingo  
 Memevore (Yes, eating memes)  
 Cofee & Tea  
 Mouse: Logitech G402  
