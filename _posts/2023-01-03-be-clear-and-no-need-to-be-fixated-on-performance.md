@@ -17,7 +17,7 @@ public static String caesarCipher(String s, int k) {
     }
 ```
 
-There's no way, or at least just a very tiny possibility to 'remember' it under the real test atmosphere, to me.
+There's no way, or at least just a tiny possibility to 'remember' it under the real test atmosphere, to me.
 
 This code takes more time to read, moreover, you have to think that you are on a team.
 
