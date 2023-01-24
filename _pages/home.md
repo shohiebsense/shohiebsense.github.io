@@ -10,6 +10,8 @@ redirect_from:
 
 # Think, Feel, Strive, Familiarize, Experience
 
+## but hold on, even robots need blankets :>
+
 ### Basic Info
 
 Race: Human  
