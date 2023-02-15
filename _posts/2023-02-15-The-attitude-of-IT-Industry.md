@@ -1,6 +1,6 @@
 It is a strange, unsurprising phenomenon of layoffs nowadays, as far as I know, it was from September last year up to this day.
 
-All the new annual trending, for now, is ChatGPT, and you think, is this the cause?
+All the new annual trending, for now, is ChatGPT, and you think, is it the cause?
 
 Not really. IT Industries since 2018 I would say, on making their product are too much emphasized leverage. $$$ and all the crap.
 
