@@ -2,7 +2,7 @@ It is a strange, unsurprising phenomenon of layoffs nowadays, as far as I know, 
 
 All the new annual trending, for now, is ChatGPT, and you think, is it the cause?
 
-Not really. IT Industries since 2018 I would say, on making their product are too much emphasized leverage. $$$ and all the crap.
+Not really. IT Industries since 2018 I would say, on making their product are too much in the leverage. $$$ and all the crap.
 
 They are overconfident, just making a small niche would hit the market.
 
