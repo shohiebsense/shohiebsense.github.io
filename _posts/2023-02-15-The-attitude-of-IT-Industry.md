@@ -22,6 +22,6 @@ Lesson learned buddy.
 
 Jangan sampai lupa daratan.
 
-Money never brings you up to be a winner. I talk about sustainability.
+Money never brings you up to be a winner. Think about sustainability.
 
 In the end, you decide.
