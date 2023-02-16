@@ -12,7 +12,9 @@ That bunch of parameters you want to bring can be wrapped in to a model.  Make o
 Join those strings using a separator, for example i use `"---"` separator.  
 Every time you found the "/" on your parameter content. Convert it to another, can be anything. For example I use the backslash "\\".  
 So your all in one parameter string, can perform this line
-` arg.replace("/", "\\")`  
+```kt 
+arg.replace("/", "\\")
+```
 Then you are good to go. You can send it.
 To receive that, unwrap that string inside the bundle just as the navigation compose rule.
 
@@ -26,7 +28,7 @@ fun Bundle?.getArg(argName: String, defaultValue: String = ""): String {
 }
 ```
 
-Revert that "\\" guy. 
+Revert back that "\\" guy. 
 ```kt
 fun revertArgToOriginalValue(arg: String): String {
     return arg.replace("\\", "/")
