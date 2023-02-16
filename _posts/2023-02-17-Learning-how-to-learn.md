@@ -1,0 +1,4 @@
+- The brain generated a ton of synapses everytime we wake up from sleep.
+- Two types of thinking: Focus and Diffuse.
+- Procrastination happens because the brand tens to avoid something that causes the pain. It is insular cortex. So we switch the situation to something else.
+- Research shows that when we do something we don't like. That neural discomfort disappear.
