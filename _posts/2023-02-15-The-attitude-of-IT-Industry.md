@@ -14,7 +14,7 @@ Say Tesla, is now one of the EV leaders. What do you assume about what they thou
 
 No way man,
 
-It's the novelty itself, they think about usability. And how purposeful for people. The novelty is that as close to humanity as possible.
+It's the novelty itself, they think about usability. And how purposeful for people. The novelty that is as close to humanity as possible.
 
 Ok next Tiktok. what does it do? To reach more audiences than the existing social media. Providing better engagement than the current ads. 
 
