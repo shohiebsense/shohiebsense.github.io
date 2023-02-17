@@ -39,3 +39,7 @@ Then you can return it back to your made Wrapped Model.
 
 using the `String.split("---)` it generates an array of string, just map it accordingly.
 That's it.
+
+#### When there's an empty argument
+
+Then just use the `String.ifEmpty {"#"}` or whatever the characters except "/"
