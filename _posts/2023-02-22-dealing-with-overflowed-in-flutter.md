@@ -10,4 +10,6 @@ Also, LayoutBuilder is useful. Just take this [codelab](https://codelabs.develop
 
 [This article](https://blog.codemagic.io/building-responsive-applications-with-flutter/) is useful too. 
 
+This [repo](https://github.com/MarsGoatz/flutter-responsive-apps-guide) is great too..
+
 In other words, it requires experience and aptitude. 
