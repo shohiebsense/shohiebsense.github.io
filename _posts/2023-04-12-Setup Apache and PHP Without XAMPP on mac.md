@@ -24,6 +24,8 @@ Tested on Mac Ventura 13.2.1 (22D68)
      </IfModule>
     </IfModule>
    ```
+10. Back to the `httpd.conf`, load the `php.conf` file by adding this line.  
+    `Include /usr/local/etc/httpd/extra/php.conf`
 10. start/restart httpd.
   `sudo brew services start httpd`
 11. Run php. `sudo php -S 127.0.0.1:8080`. 
