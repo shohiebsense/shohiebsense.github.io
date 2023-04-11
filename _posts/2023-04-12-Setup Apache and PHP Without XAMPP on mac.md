@@ -13,17 +13,17 @@ Tested on Mac Ventura 13.2.1 (22D68)
   `#or /usr/local/opt/php/lib/httpd/modules/libphp.so`
   `LoadModule php_module /usr/local/opt/php/lib/httpd/modules/libphp.so`
 9. Add these php configurations in the next line.
-  ```
+   ```
    <IfModule php_module>
-    <FilesMatch \.php$>
-      SetHandler application/x-httpd-php
-    </FilesMatch>
+     <FilesMatch \.php$>
+       SetHandler application/x-httpd-php
+     </FilesMatch>
 
-    <IfModule dir_module>
-     DirectoryIndex index.html index.php
+     <IfModule dir_module>
+      DirectoryIndex index.html index.php
+     </IfModule>
     </IfModule>
-  </IfModule>
-  ```
+   ```
 10. start/restart httpd.
   `sudo brew services start httpd`
 11. Run php. `sudo php -S 127.0.0.1:8080`. 
