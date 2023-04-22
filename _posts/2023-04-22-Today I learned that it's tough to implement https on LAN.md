@@ -18,3 +18,10 @@ Also for the connectivity test if the ping or telnet is not enough, you could tr
 
 the command: `ncat -vz ipaddr port`
 
+the result  
+
+```.sh
+Ncat: Version 7.92 ( https://nmap.org/ncat )
+Ncat: Connected to 192.168.1.3:61613.
+Ncat: 0 bytes sent, 0 bytes received in 0.09 seconds.
+```
