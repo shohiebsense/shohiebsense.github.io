@@ -4,11 +4,17 @@ It would be not easy to deploy on LAN, where it gets accessed on another node.
 
 Modern browser itself atleast requires SSL and thats the minimum, to allow us to procceed (with risk, as it is self signed certificate).  
 
-It is also different thing when it comes to deploy in http package and gin.  
+It is also different when it comes to deploy in http package and gin.  
 
-In http, it's straight forward, you should have .crt and .key already and do
+You can have http and https in the same port.  
+
+in http:  
 
 `server.ListenAndServeTLS("server.crt", "server.key")`  
+
+in gin  
+
+`router.RunTLS(":3000", "server.crt", "server.key")`
 
 In gin you have to explore further, until I write this post, still doesn't work.
 
