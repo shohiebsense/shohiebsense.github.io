@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: 'en-US'
-title: 'Shohiebsense'
+title: 'Shohieb Nasruddin'
 title_separator: '-'
 name: &name 'Shohieb Nasruddin'
 description: &description 'personal description'
