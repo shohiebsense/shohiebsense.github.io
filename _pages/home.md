@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Think, Feel, Strive, Familiarize, Experience
+# Think, Feel, Strive, Regulate, Experience
 
 ## but hold on, even robots need blankets :>
 
