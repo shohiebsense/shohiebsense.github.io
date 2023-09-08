@@ -10,6 +10,7 @@ Simply it is awful enough, that makes some data can finally displayed for almost
 
 Numerous Approach have been taken :
 
+0. Pair Programming! We share and solve the problems together.
 1. Forwarding some heavy queries to Golang as a backend to enable asynchronous by using the existing PHP as the proxy.  
 2. Combining multiple tables (not join) from the memory layer rather than in the disk-storage, database-read UNION layer.  
 3. Implementing Web Server's load-balance to 3 different ports round robin.  
