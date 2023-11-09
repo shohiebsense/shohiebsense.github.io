@@ -16,7 +16,7 @@ Well I have bad news for you. Of course, most likely, Ga bakal dikasih.
 
 Gimana kalau gini, konteksnya adalah kita memang butuh menjadi lebih mengerti satu sama lain. Si level manajemen eksekusif kepengen produknya, atau performanya sebaik mungkin.  
 
-Sedangkan para level staff, perlu supaya engagementnya tetap positif, dan wellbeingnya terjamin. We spent for almighty 8 hours. And thats minimum.  
+Sedangkan para level staff, perlu supaya engagementnya tetap positif, dan wellbeingnya terjamin. We spent for almighty 8 hours. And thats still a minimum.  
 
 Gimana kalau diubah penyampaiannya dari "Kotak Saran" menjadi pertanyaan yang kita benar membutuhkannya. No problem the examples will be given.  
 
