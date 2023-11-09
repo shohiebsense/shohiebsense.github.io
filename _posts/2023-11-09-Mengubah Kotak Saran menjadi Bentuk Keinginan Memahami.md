@@ -1,8 +1,8 @@
 
-`
-Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
+```
+Fighting has been made obligatory upon you believers, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
 2:216
-`
+```
 
 Kotak saran awalnya berniat untuk memberi ruang supaya bisa saling berkomunikasi.  
 
