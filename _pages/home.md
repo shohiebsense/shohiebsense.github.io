@@ -10,7 +10,7 @@ redirect_from:
 
 # Think, Feel, Strive, Regulate, Experience
 
-## Ideas that are undertaking  
+## Ideas undertaking  
 
 ### Basic Info
 
