@@ -25,7 +25,7 @@ Monitor: AOC LED 24B1XHS 24" 1920x1080 IPS
 Supra X-125 FI  
 Industrially Industrious Since 2016  
 Native Weaponry:  Mobile Development  
-Secondary Weaponry: DevOps, Web Development  
+Secondary Weaponry: DevOps, Front-End, Back-End Development  
 Development Approach: Agnostic, Product goal-based, not Framework sophistry-based
 
 
