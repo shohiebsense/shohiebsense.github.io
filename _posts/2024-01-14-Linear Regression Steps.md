@@ -76,7 +76,15 @@ now we have the data like these
 
 sum or ∑ of (x-mean(x)) * (y-mean(y)) = 134.8  
 sum or ∑ of (x-mean(x))^2 = 42.4  
-sum or ∑ of (y-mean(y))^2 = 1206.1
+sum or ∑ of (y-mean(y))^2 = 1206.1  
+
+now because of. 
+
+r = sumOf((x-mean(x)) * (y-mean(y))) / squareRootOf(sumOf((x-mean(x))^2) * sumOf((y-mean(y))^2))  
+
+r = 134.8 / squareRootOf(42.4 * 1206.1)  
+
+**r = 0.596**  
 
 (3) Work with the Linear Regression Function
 
