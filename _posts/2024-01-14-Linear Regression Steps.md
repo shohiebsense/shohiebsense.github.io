@@ -43,6 +43,14 @@ Sx is the standard deviation of x
 
 
 
+based on that, we have to find the  
+(1) (x-mean(x))    
+(2) (y-mean(y))  
+(3) (x-mean(x)) * (y-mean(y))  and sum of all that    
+(4) (x-mean(x))^2 and sum of all that  
+(5) (y-mean(y))^2 and sum of all that   
+
+
 (3) Work with the Linear Regression Function
 
 y = a + bx
