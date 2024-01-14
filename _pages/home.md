@@ -16,6 +16,7 @@ redirect_from:
 
 Race: Human  
 Nationality: Indonesia  
+Civilization VI  
 Stellaris  
 Duolingo  
 Memevore (Yes, eating memes)  
