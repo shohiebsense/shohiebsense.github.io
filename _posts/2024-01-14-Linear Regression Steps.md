@@ -50,6 +50,33 @@ based on that, we have to find the
 (4) (x-mean(x))^2 and sum of all that  
 (5) (y-mean(y))^2 and sum of all that   
 
+for start, the first row   
+17 - 15.6 = 1.4 that is (x-mean(x))  
+94-79.7 = 14.3 that is (y-mean(y))  
+1.4 * 14.3 = 20.02 that is (x-mean(x)) * (y-mean(y))  
+1.4^2 = 1.96 that is (x-mean(x))^2  
+14.3^2 = 204.49 that is (y-mean(y))^2  
+
+and so on so forth for the rest of rows  
+
+now we have the data like these  
+
+| # Correct (x) | Attiitude (y) | (x-mean(x)) | (y-mean(y)) | (x-mean(x)) * (y-mean(y)) | (x-mean(x))^2 | (y-mean(y))^2 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 17 | 94 | 1.4 | 14.3 | 20.02 | 1.96 | 204.49
+| 13 | 73 | -2.6 | -6.7 | 17.42 | 6.76 | 44.89  
+| 12 | 59 | -3.6 | -20.7 | 74.52 | 12.96 | 428.49  
+| 15 | 80 | -0.6 | 0.3 | -0.18 | 0.36 | 0.09 
+| 16 | 93 | 0.4 | 13.3 | 5.32 | 0.16 | 176.89  
+| 14 | 85 | -1.6 | 5.3 | -8.48 | 2.56 | 28.09  
+| 16 | 66 | 0.4 | -13.7 | -5.48 | 0.16 | 187.69
+| 16 | 79 | 0.4 | -0.7 | -0.28 | 0.16 | 0.49  
+| 18 | 77 | 2.4 | -2.7 | -6.48 | 5.76 | 7.29  
+| 19 | 91 | 3.4 | 11.3 | 38.42 | 11.56 | 127.69   
+
+sum or ∑ of (x-mean(x)) * (y-mean(y)) = 134.8  
+sum or ∑ of (x-mean(x))^2 = 42.4  
+sum or ∑ of (y-mean(y))^2 = 1206.1
 
 (3) Work with the Linear Regression Function
 
