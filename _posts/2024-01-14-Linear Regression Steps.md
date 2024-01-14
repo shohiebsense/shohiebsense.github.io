@@ -42,7 +42,9 @@ Sx is the standard deviation of x
 
 (3) Find the r, Pearson correlation coefficient  
 
+![Pearson correlation coefficient](https://www.gstatic.com/education/formulas2/553212783/en/correlation_coefficient_formula.svg)
 
+r = sumOf((x-mean(x)) * (y-mean(y))) / squareRootOf(sumOf((x-mean(x))^2) * sumOf((y-mean(y))^2))  
 
 based on that, we have to find the  
 (1) (x-mean(x))    
@@ -114,9 +116,15 @@ ok, now we can go back to formula of y-intercept
 a = mean(y) - b * mean(x)  
 a = 79.7 - 3.178 * 15.6  
 a = 79.7 - 49.577  
-a = 30.123
+a = **30.123**
 
 (3) Work with the Linear Regression Function
 
 y = a + bx
+y = 30.123 + 3.178 * x
 
+the x is 15. 
+so 
+y = 30.123 + 3.178 * 15
+y = 30.123 + 47.67
+**y = 77.803**
