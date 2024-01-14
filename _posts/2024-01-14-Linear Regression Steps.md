@@ -1,5 +1,6 @@
 Suppose we have data number of correct answers and the attitude mark like this
 
+(Reference and credit goes to: [Eugene O'Loughlin](https://www.youtube.com/watch?v=GhrxgbQnEEU)
 
 | # Correct (x) | Attiitude (y) |
 | --- | --- |
