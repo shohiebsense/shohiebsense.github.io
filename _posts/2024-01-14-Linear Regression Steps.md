@@ -30,7 +30,8 @@ the mean average of x is 17 + 13 + 12 + 15 + 16 + 14 + 16 + 16 + 18 + 19 = 156 /
 
 the mean average of y ix 94 + 73 + 59 + 80 + 93 + 85 + 66 + 79 + 77 + 91 = 797 / 10 = **79.7**  
 
-
+but hold on, you need to find the b value first.  
+  
 (2) Find the b, which isi slope of regression line  
 
 b = r * Sy / Sx
@@ -85,6 +86,35 @@ r = sumOf((x-mean(x)) * (y-mean(y))) / squareRootOf(sumOf((x-mean(x))^2) * sumOf
 r = 134.8 / squareRootOf(42.4 * 1206.1)  
 
 **r = 0.596**  
+
+now we already have the r value.  Next is the standard deviations of y and x.  
+
+the standard deviation formula is squareRootOf(sumOf((x-mean(x))^2) / m-1). 
+
+where m is the amount of dataset we have, which is 10. 10 - 1 = 9. 
+
+(1) Find the Sy  
+squareRootOf(sumOf((y-mean(y))^2) / m-1)
+= squareRootOf(1206.1 / 9)
+= **11.576**  
+
+(2) Find the Sx  
+squareRootOf(sumOf((x-mean(x))^2) / m-1) 
+= squareRootOf(42.4/9). 
+= **2.171 ** 
+
+Alright, we are now ready to put it to the formula b = r * Sy / Sx  
+
+b = 0.596 * 11.576 / 2.171  
+b = 0.596 * 5.332  
+b = **3.178**  
+
+ok, now we can go back to formula of y-intercept  
+
+a = mean(y) - b * mean(x)  
+a = 79.7 - 3.178 * 15.6  
+a = 79.7 - 49.577  
+a = 30.123
 
 (3) Work with the Linear Regression Function
 
