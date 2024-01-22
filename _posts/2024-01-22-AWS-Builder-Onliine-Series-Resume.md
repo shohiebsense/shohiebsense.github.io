@@ -38,3 +38,5 @@ And context, is additional information like request ID, memory based information
 Use cases of event-driven applicatioin would be: data streaming process or events that continuously streams, sensors, logging and such, in web application for example Combining AWS Amplify for static web hosting (HTML CSS, building SPA or server side rendering (Next, Nuxtjs), amazon cognito for authentication and user management (backend for API) Then we manage the APII endpoints iin AWS Lambda and Amazon API gateway.  
 
 Choosing ECS or EKS: ECS provides simplicity so it becomes opinionated way to scale the containers, while EKS is kubernetes based, and for even more complex applications.  
+
+Evolutoin of Infrastructure as Code: Human that knows -> bash script -> more complex -> make a declarative commands like Terraform/AWS CloudFormation -> Then it improved as generator, that writes the YAML or Json configurations -> then new tools enabled as the framework of configuratioins such as Pulumi or AWS CDK 
