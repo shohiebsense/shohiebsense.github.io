@@ -8,7 +8,7 @@ what it means to be modular archictural patterns: the application decomposed int
 
 In microservices, services are typically built around business capabilities, independently deployable by fully deployment and machinery.  
 
-diifferent services in a given application may actually be written in different programming languages, thus may also be usiing different data storage technologies.  
+Different services in a given application may actually be written in different programming languages, thus may also be usiing different data storage technologies.  
 
 Benefits: Separating monolith into these smaller components makes it faster to release cadence, sdlc automation, flexible upgrades, and rollback scenarios, reusable services increase time to value of application, horizontal scaling based on actual demand, application portability.  
 
@@ -22,4 +22,10 @@ So we can combined the containerization with fargate, and serverless with lambda
 But the Containers and serverless has distinctions: Containers: compute-oriented, easily manage infrastructure, infrastructure consumption-based pricing. Serverless] Event-oriented, abstract away infrastructure, requesed-based pricing.  
 
 Example of events: Iimage processiing when an object is uploaded to an S3 bucket, then you can use Lambda.  
+
+Serverless means: No infrastructure provisioning, no management, automatic scaling, pay-for-usem highly available and secure, because the fundamentals/abstractions handled by the provider.  
+
+
+Use cases of event-driven applicatioin would be: data streaming process or events that continuously streams, sensors, logging and such, in web application for example Combining AWS Amplify for static web hosting (HTML CSS, building SPA or server side rendering (Next, Nuxtjs), amazon cognito for authentication and user management (backend for API) Then we manage the APII endpoints iin AWS Lambda and Amazon API gateway.  
+
 
