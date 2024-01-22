@@ -13,7 +13,7 @@ Benefits: Separating monolith into these smaller components makes it faster to r
 
 Traditional usage in AWS is using Amazon EC2, which is a virtual machine, and aws manages physical hardware, software, networking and facilities or we called it as Infrastructure as a service  
 
-In contrast if we want to enable the serverless containers, we use AWS Fargate. The difference from the customer perspective, or say us the developers, AWS Fargate manages applicatioin code, data source integratiions, security-config and updates, network config and tasks management. In EC2 we manage application code, data source integrations, scaling, security config and updates, network config, and task management.  Aws fargates can manage scaling by clustering, contaiiner orchestration.  
+In contrast if we want to enable the serverless containers, we use AWS Fargate. The difference from the customer perspective, or say us the developers, AWS Fargate manages application code, data source integratiions, security-config and updates, network config and tasks management. In EC2 we manage application code, data source integrations, scaling, security config and updates, network config, and task management.  Aws fargate can manage scaling by clustering, contaiiner orchestration.  
 
 So we can combined the containerization with fargate, and serverless with lambda.  While if we just want to have own authority, use EC2  
 
