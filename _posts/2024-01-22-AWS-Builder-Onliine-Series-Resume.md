@@ -1,5 +1,3 @@
-1. Modernization with containers and serverless technologies
-
 Background: App we build needs to scale quickly. to million of users, global availability, respond in milisecondds, handle petabytes of data.  
 
 Modern applicatiion characteristics: Modular architectural patterns, as serverless as possible, agile development process; innovate faster and reducing risk time to market, and cost of ownership.  
@@ -24,6 +22,17 @@ But the Containers and serverless has distinctions: Containers: compute-oriented
 Example of events: Iimage processiing when an object is uploaded to an S3 bucket, then you can use Lambda.  
 
 Serverless means: No infrastructure provisioning, no management, automatic scaling, pay-for-usem highly available and secure, because the fundamentals/abstractions handled by the provider.  
+
+Lambda function 3 components: Handler function, Event, Context  
+
+Basically a function that triggered by an event. 
+
+Handler functiion is a function executed on invocation, and processes incoming event. 
+
+And the event is the data, or the invocation data that sent to function, that differs by event source (or the one that sent the event). 
+
+And context, is additional information like request ID, memory based information etc.  
+
 
 
 Use cases of event-driven applicatioin would be: data streaming process or events that continuously streams, sensors, logging and such, in web application for example Combining AWS Amplify for static web hosting (HTML CSS, building SPA or server side rendering (Next, Nuxtjs), amazon cognito for authentication and user management (backend for API) Then we manage the APII endpoints iin AWS Lambda and Amazon API gateway.  
