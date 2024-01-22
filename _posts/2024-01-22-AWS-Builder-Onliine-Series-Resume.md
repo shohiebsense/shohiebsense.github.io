@@ -28,4 +28,4 @@ Serverless means: No infrastructure provisioning, no management, automatic scali
 
 Use cases of event-driven applicatioin would be: data streaming process or events that continuously streams, sensors, logging and such, in web application for example Combining AWS Amplify for static web hosting (HTML CSS, building SPA or server side rendering (Next, Nuxtjs), amazon cognito for authentication and user management (backend for API) Then we manage the APII endpoints iin AWS Lambda and Amazon API gateway.  
 
-
+Choosing ECS or EKS: ECS provides simplicity so it becomes opinionated way to scale the containers, while EKS is kubernetes based, and for even more complex applications.  
