@@ -10,7 +10,7 @@ redirect_from:
 
 # Think, Feel, Strive, Regulate, Experience
 
-## Ideas undertaking  
+## Ideas undertaking. Impacts wherever to go  
 
 ### Basic Info
 
