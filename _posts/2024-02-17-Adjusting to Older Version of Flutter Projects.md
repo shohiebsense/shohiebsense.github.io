@@ -17,7 +17,7 @@ for example I'm choosing 3.7.12 so `git checkout 3.7.12`
 
 Then there you go, you can `pub get` the project.  
 
-You also potentially can have the gradle version, which the cause is in which version is your kotlin compiler.?   
+You also potentially can have the gradle version issue, which the cause is in which version is your kotlin compiler.(?)   
 
 So just go to the project level of `build.gradle` then adjust the kotlin version accordingly.  
 
