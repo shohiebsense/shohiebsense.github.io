@@ -50,7 +50,7 @@ WHERE (ts_rank_cd(your_ts_vector_column, to_tsquery('``:*&term1:*&term2:*|term3:
 ```
 
 
-So as you can see they support regex/wildcards, and the | or & are self-explanatory.  
+So as you can see they support regex/wildcards, and the `|` or `&` are self-explanatory.  
 
 go and find out yourself which one is better for you...  
 
