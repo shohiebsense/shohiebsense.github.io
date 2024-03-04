@@ -6,9 +6,9 @@ Postgre offers Text-Search Types
 
 Just take a look at [its documentation](https://www.postgresql.org/docs/current/datatype-textsearch.html):  
 
-```
+`
 PostgreSQL provides two data types that are designed to support full-text search, which is the activity of searching through a collection of natural-language documents to locate those that best match a query. The tsvector type represents a document in a form optimized for text search; the tsquery type similarly represents a text query.
-```
+`
 
 Just go and find out.  
 
@@ -39,18 +39,26 @@ LIMIT
 
 Or this approach:  
 
-```
+```sqk
 select file_id, content from document_text where to_tsvector(content) @@ to_tsquery('(!bear & predict)| instruments');
 ```  
 
 Or you want to use ranking approach. 
 
-```
+```sql
 WHERE (ts_rank_cd(your_ts_vector_column, to_tsquery('``:*&term1:*&term2:*|term3:*')) > 0 )
 ```
 
 
 So as you can see they support regex/wildcards, and the `|` or `&` are self-explanatory.  
+
+if you want to have multi-word search assuming separated by spaces, can add `<->` every word like this 
+  
+say the term we are looking for is "string builder". 
+
+```sql
+(ts_rank_cd(full_text_search, to_tsquery('``:*|stri:* <-> buil:*&otherterm:*')) > 0 )
+```
 
 go and find out yourself which one is better for you...  
 
