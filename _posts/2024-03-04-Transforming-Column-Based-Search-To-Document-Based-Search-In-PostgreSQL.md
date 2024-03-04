@@ -43,4 +43,17 @@ Or this approach:
 select file_id, content from document_text where to_tsvector(content) @@ to_tsquery('(!bear & predict)| instruments');
 ```  
 
-Or you 
+Or you want to use ranking approach. 
+
+```
+WHERE (ts_rank_cd(your_ts_vector_column, to_tsquery('``:*&term1:*&term2:*|term3:*')) > 0 )
+```
+
+
+So as you can see they support regex/wildcards, and the | or & are self-explanatory.  
+
+go and find out yourself which one is better for you...  
+
+just make sure that your query should ignore case and common cases to handle non-word letters (what is it called? There is a term for it in Language Science and in Natural Language Processing). 
+
+
