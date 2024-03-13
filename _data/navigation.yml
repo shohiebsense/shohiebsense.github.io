@@ -4,8 +4,8 @@ main:
     url: /posts/
   - title: 'Development Journal'
     url: https://github.com/shohiebsense/MyDevelopingJournal
-  - title: 'Astrologaster Journey'
-    url: /astrologaster-journey/
+  #- title: 'Astrologaster Journey'
+  #  url: /astrologaster-journey/
   - title: 'Order a Birth Chart Reading'
     url: /birth-chart-reading-order/
   - title: 'Course Journey'
