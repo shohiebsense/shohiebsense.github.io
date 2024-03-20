@@ -6,6 +6,12 @@ then when it comes to confusing which pip you use, just use the project based, t
 
 if you use the python plugin on vscode, it provides the initialization.  
 
+or initialize it using bash. 
+
+```sh
+python3 -m venv .venv
+```
+
 then you can execute the `.venv` activation  
 
 ```sh
@@ -18,7 +24,7 @@ source .venv/bin/activate
 then install import you would like. 
 
 
-then deactivate after that.  
+then deactivate when you are done.  
 
 ```sh
 deactivate
