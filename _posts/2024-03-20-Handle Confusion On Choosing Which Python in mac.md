@@ -23,3 +23,5 @@ then deactivate after that.
 ```sh
 deactivate
 ```
+
+also keep in mind that if you use `python3`, then u use `pip3` as well. 
