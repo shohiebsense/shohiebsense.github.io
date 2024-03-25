@@ -1,3 +1,14 @@
+---
+title: 'Menyampaikan Sanggahan Premis Guru Gembul Soal EPS 37 | KESALAHPAHAMAN PERANG SALIB'
+collection: adultpoints
+type: 'Others'
+permalink: /adult-points/sanggahan-tentang-perang-salib-dari-premis-guru-gembul
+venue: 'Adult Points'
+date: 2024-03-25
+location: 'Space'
+---
+
+
 Videonya yang ini [EPS 37 | KESALAHPAHAMAN PERANG SALIB, ISLAM-KRISTEN WAJIB NONTON !!!](https://www.youtube.com/watch?v=qo0kohr8eh4)  
 
 Di menit 11:20. 
