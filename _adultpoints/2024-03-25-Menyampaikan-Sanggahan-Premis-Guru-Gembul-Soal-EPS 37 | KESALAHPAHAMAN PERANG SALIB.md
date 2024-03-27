@@ -1,5 +1,5 @@
 ---
-title: 'Menyampaikan Sanggahan Premis Guru Gembul Soal EPS 37 | KESALAHPAHAMAN PERANG SALIB'
+title: 'Menyampaikan Sanggahan Premis Guru Gembul Soal EPS 37 KESALAHPAHAMAN PERANG SALIB'
 collection: adultpoints
 type: 'Others'
 permalink: /adult-points/sanggahan-tentang-perang-salib-dari-premis-guru-gembul
