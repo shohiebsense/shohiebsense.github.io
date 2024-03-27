@@ -1,6 +1,7 @@
 `$ go env`
-GO111MODULE=''
-GOARCH='amd64'
+```bash
+GO111MODULE=''  
+GOARCH='amd64'  
 GOBIN='/home/shohiebsense/go/bin'
 GOCACHE='/home/shohiebsense/.cache/go-build'
 GOENV='/home/shohiebsense/.config/go/env'
@@ -39,3 +40,4 @@ CGO_FFLAGS='-O2 -g'
 CGO_LDFLAGS='-O2 -g'
 PKG_CONFIG='pkg-config'
 GOGCCFLAGS='-fPIC -m64 -pthread -Wl,--no-gc-sections -fmessage-length=0 -ffile-prefix-map=/tmp/go-build1434995651=/tmp/go-build -gno-record-gcc-switches'
+```
