@@ -1,3 +1,13 @@
+---
+title: 'boleh mengamalkan hadits dhaif kalau cukup 5 syarat'
+collection: adultpoints
+type: 'Others'
+permalink: /adult-points/boleh-mengamalkan-hadits-dhaif-kalau-cukup-5-syarat
+venue: 'Adult Points'
+date: 2024-03-28
+location: 'Space'
+---
+
 Dari Prof. H. Abdul Somad, Lc., D.E.S.A., Ph.D dalam pengajian bersama Prof. KH.Yahya Zainul Ma'arif, Lc., M.A., Ph.D.  
 
 menyampaikan  
