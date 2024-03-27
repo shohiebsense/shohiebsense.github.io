@@ -9,7 +9,7 @@ location: 'Space'
 ---
 
 
-Videonya yang ini [EPS 37 | KESALAHPAHAMAN PERANG SALIB, ISLAM-KRISTEN WAJIB NONTON !!!](https://www.youtube.com/watch?v=qo0kohr8eh4)  
+Videonya yang ini [EPS 37 KESALAHPAHAMAN PERANG SALIB, ISLAM-KRISTEN WAJIB NONTON !!!](https://www.youtube.com/watch?v=qo0kohr8eh4)  
 
 Di menit 11:20. 
 
