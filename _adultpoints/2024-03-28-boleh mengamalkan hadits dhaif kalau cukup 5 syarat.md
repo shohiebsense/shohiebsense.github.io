@@ -15,7 +15,7 @@ Dalam Tadrib al-Rawi fi Sharh Taqrib al-Nawawi boleh mengamalkan hadits dhaif ka
 2. Bukan dalam masalah menghalalkan yang haram mengharamkan yang halal dalil penetapan hukum fikih
 3. Tidak ada periwayatnya yang pendusta
 4. Masih bernaung di bawah hadits sahih
-5. Untuk Fadhailul A'mal 
+5. Untuk Fadhailul A'mal (berkaitan dengan keutamaan-keutamaan akhlak)
 ```
 
 [Dalam Kitab Ihya Ulumuddin Banyak Hadits-Hadist Dhoif Buya Yahya & Ustadz Abdul Somad](https://www.youtube.com/watch?v=7ALv_4VF2Sg&t=17s)
