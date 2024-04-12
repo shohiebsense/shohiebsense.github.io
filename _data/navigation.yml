@@ -2,8 +2,8 @@
 main:
   - title: 'Posts'
     url: /posts/
-  - title: 'Development Journal'
-    url: https://github.com/shohiebsense/MyDevelopingJournal
+  - title: 'Looking for A Mentor?'
+    url: /posts/I-am-Open-to-Mentor-Someone
   #- title: 'Astrologaster Journey'
   #  url: /astrologaster-journey/
   - title: 'Order a Birth Chart Reading'
