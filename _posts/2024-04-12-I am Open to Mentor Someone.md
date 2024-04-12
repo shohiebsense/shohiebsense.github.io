@@ -1,7 +1,7 @@
 ## Why you choose me
 
 1. Free Accessible Courses
-2. I am a technical person, means I can do extensible stuff from Mobile Development, Frontend, Backend, Devops
+2. I am a technical person, means I can do extensible stuff from Mobile Development, Frontend, Backend, Devops, Security
 3. 8 Years of Experience In Industry.
 4. I acquired various, wide-range experience from Software Engineer, Architect, System Analyst, Technical Lead
 5. I am an all-rounder. Suitable for yours if you are a starter.
