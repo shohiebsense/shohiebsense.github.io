@@ -20,7 +20,7 @@ Civilization VI
 Stellaris  
 Duolingo  
 Memevore (Yes, eating memes)  
-Cofee & Tea  
+Coffee & Tea  
 Mouse: Logitech G402  
 Monitor: AOC LED 24B1XHS 24" 1920x1080 IPS  
 Supra X-125 FI  
