@@ -15,4 +15,12 @@ server {
 }
 ```
 
+
+
 2. Add "A" type dns records to your dns provider, for example nginx
+
+3. link that configuration file if you wanna to be separated
+
+```
+sudo ln -s /etc/nginx/sites-available/sub.example.com /etc/nginx/sites-enabled/
+```
