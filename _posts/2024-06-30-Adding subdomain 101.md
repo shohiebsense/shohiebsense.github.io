@@ -17,7 +17,7 @@ server {
 
 
 
-2. Add "A" type dns records to your dns provider, for example nginx
+2. Add "A" type dns records to your dns provider, for example cloudflare
 
 3. link that configuration file if you wanna to be separated
 
