@@ -1,3 +1,9 @@
+run it by: 
+
+```bash
+rails credentials:edit
+```
+
 you have to add EDITOR or VISUAL, or else you got:
 
 ```bash
