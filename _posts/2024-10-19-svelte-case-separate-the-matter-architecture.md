@@ -65,7 +65,7 @@ so you do some business logic in there and eventually you just show it like
 
 here we go, on `DashboardSectionView.svelte`
 
-```
+```.svelte
 <script>
 	export let superAppErrors;
 	export let paymentPendingTransactionErrors;
