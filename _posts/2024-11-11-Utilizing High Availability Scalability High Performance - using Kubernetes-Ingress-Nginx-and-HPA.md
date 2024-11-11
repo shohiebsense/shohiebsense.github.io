@@ -20,7 +20,7 @@ load balancer (cluster) -> ingress <-> hpa <-> the application in pods
 `kubectl logs -n kube-system deployment/metrics-server`
 8. Apply the deployment, load_balancer, and ingress (`.yaml` file).  
 `kubectl apply -f deployment.yaml`  
-`kubectl apply -f ingress.yaml`
+`kubectl apply -f ingress.yaml`  
 `kubectl apply -f load_balancer.yaml`  
 9. You can use bash script or yaml file to do autoscaling
 `kubectl autoscale deployment network-traffic-monitor-deployment-8085 --cpu-percent=3 --min=2 --max=5`
