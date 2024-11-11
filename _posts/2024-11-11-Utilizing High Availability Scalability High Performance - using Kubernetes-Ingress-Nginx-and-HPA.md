@@ -3,6 +3,7 @@ the steps:
 ```bash
 #i use docker desktop that acts as a cluster: to act as a handler for public domain of the app)
 load balancer (cluster) -> ingress <-> hpa <-> the application in pods
+# hpa: horizontal pod autoscaling
 ```
 
 1. Install the app you want to scale
