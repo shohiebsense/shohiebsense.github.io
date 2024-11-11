@@ -18,7 +18,7 @@ load balancer (cluster) -> ingress <-> hpa <-> the application in pods
 `kubectl get deployment metrics-server -n kube-system`  
 6a. log if it's running  
 `kubectl logs -n kube-system deployment/metrics-server`
-8. Apply the deployment, load_balancer, and ingress (`.yaml` file).
+8. Apply the deployment, load_balancer, and ingress (`.yaml` file).  
 `kubectl apply -f deployment.yaml`  
 `kubectl apply -f ingress.yaml`
 `kubectl apply -f load_balancer.yaml`  
