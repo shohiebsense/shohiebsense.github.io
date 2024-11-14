@@ -29,6 +29,8 @@ Library vs. Framework
 
 Read again your error, is that generated from package's frameworks? If so, try to use the library only.  
 
+something like  
+
 ```.podfile
 target 'YourAppTarget' do
   # Remove or comment out `use_frameworks!`
