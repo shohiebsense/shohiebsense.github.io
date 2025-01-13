@@ -8,7 +8,7 @@ To this day I write this post, I saw this [https://www.reddit.com/r/node/comment
 
 So yeah the idea is to upgrade the node incrementally from 14 to 18 then 20 and 22.  
 
-The project is NodeJS, so many scoped packages library. `@nestjs/xxx`  
+The project is NestJS, so many scoped packages library. `@nestjs/xxx`  
 
 I did it and it feels good. Only to realize the world doesn't allow me to feel so.  
 
