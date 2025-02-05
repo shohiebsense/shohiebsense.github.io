@@ -41,7 +41,7 @@ location: 'Space'
 31. Paling Adil
 32. Menahan diri
 33. Teguh pendirian
-34. Teguh menjada kepercayaan
+34. Teguh menjaga kepercayaan
 35. Terpercaya
 36. Tidak berdusta
 37. Tidak pernah tidak dipercayai, atau obrolan tidak dipercaya
