@@ -73,7 +73,7 @@ location: 'Space'
 63. Tidak pernah membentak pembantunya
 64. Tidak pernah mencela pembantunya karena melakukan atau meninggalkan sesuatu yang tidak seharusnya
 65. Mencintai orang miskin
-66. DMenghadiri jenazah orang miskin
+66. Menghadiri jenazah orang miskin
 67. Tidak merendahkan karena kemiskinannya
 68. Tenggang rasa, kontribusi
 69. Merenung
@@ -91,7 +91,7 @@ location: 'Space'
 81. Tidak pernah marah karena masalah duniawi
 82. Tidak pernah marah demi kepentingannya sendiri
 83. Amat toleran
-84. Kalau menunjuk sesuatu, menggunkaan seluruh telapak tangannya
+84. Kalau menunjuk sesuatu, menggunakan seluruh telapak tangannya
 85. Kalau marah, memalingkan wajah
 86. Banyak senyum
 87. Menahan lidahnya, kecuali dibutuhkan
