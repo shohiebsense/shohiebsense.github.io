@@ -133,6 +133,5 @@ location: 'Space'
 123. Pemimpin
 124. Tumpuan harapan
 125. Tidak pernah melanggar hak
-126. 
 
 
