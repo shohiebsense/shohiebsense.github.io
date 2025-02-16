@@ -17,3 +17,4 @@ location: 'Space'
 6. Milestone pertama yang dicapai sebagai progress
 7. Garis besar masalah utamanya apa untuk dikerjain
 8. Switch back and forth perspective, black white perspective, positive negative perspective
+9. Pikirkan dampaknya, kalau dilakukan apa dampaknya, kalau tidak apa dampaknya, kalau dilakukan dengan benar apa dampaknya, kalau dilakukan dengan tidak benar apa dampaknya.
