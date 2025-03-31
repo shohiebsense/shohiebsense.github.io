@@ -16,7 +16,7 @@ location: 'Space'
 6. Istri tidak boleh keluar rumah kecuali izin suami / darurat (Imam Al-Qurtubi) / dibenarkan dalam Agama (Imam Ibnu Kathir).
 7. tidak mengizinkan orang yang tidak kau sukai masuk ke rumah kalian. (Imam at-Tirmidzi)
 8. nushuz (pembangkangan) -> keluar bukan untuk mencari nafkah (jika suami tidak bisa memberi nafkah), bukan untuk membeli kebutuhan sehari-hari yang memang harus dilakukan, bukan untuk menengok orang sakit atau takziyah, tanpa izin suami
-9. nushuz suami -> tidak memedulikan istrinya, perlakuan sewenang-wenang terhadap istri.
+9. nushuz suami -> tidak memedulikan istrinya, perlakuan sewenang-wenang terhadap istri, istri sudah taat tetapi suami masih menyusahkannya
 10. Jika pembangkangan terjadi, mengingatkan, memberi nasihat, yang dapat melunakkan hatinya, atau memukul yang tidak pada area wajah atau area yang merusak, tidak melukai dan tujuannya mendidik.
 11. Shiqāq (perselisihan) -> Jika terjadi perselisihan yang memang besar, kirim hakim dari masing-masing pihak suami dan istri. Pilihan hakim harus disetujui masaing-masing suami dan istri.
 12. ḥaḍānah (mendidik/mengasuh) -> hukumnya wajib bagi suami-istri, untuk awal, perempuan lebih layak karena perempuan lebih lembut, halus dan lebih sabar serta dekat dengan anak. Pada usia tertentu, maka pengasuhan beralih pada bapak
