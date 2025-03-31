@@ -20,7 +20,6 @@ location: 'Space'
 10. Jika pembangkangan terjadi, mengingatkan, memberi nasihat, yang dapat melunakkan hatinya, atau memukul yang tidak pada area wajah atau area yang merusak, tidak melukai dan tujuannya mendidik.
 11. Shiqāq (perselisihan) -> Jika terjadi perselisihan yang memang besar, kirim hakim dari masing-masing pihak suami dan istri. Pilihan hakim harus disetujui masaing-masing suami dan istri.
 12. ḥaḍānah (mendidik/mengasuh) -> hukumnya wajib bagi suami-istri, untuk awal, perempuan lebih layak karena perempuan lebih lembut, halus dan lebih sabar serta dekat dengan anak. Pada usia tertentu, maka pengasuhan beralih pada bapak
-13. Urutan pengasuhan -> ibu, nenek (dari ibu), saudara perempuan sekandung, saudara perempuan dari bapak
-14. Keponakan
-15. Urutan pengasuhan setelah beralih ke bapak -> bapak, kakek, kakek ke atas, saudara laki-laki, anak saudara laki-laki, paman, anak-anak paman.
+13. Urutan pengasuhan -> ibu, nenek (dari ibu), saudara perempuan sekandung, saudara perempuan dari bapak, Keponakan
+14. Urutan pengasuhan setelah beralih ke bapak -> bapak, kakek, kakek ke atas, saudara laki-laki, anak saudara laki-laki, paman, anak-anak paman.
 
