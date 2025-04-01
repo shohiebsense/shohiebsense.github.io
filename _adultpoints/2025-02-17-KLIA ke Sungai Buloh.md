@@ -12,7 +12,7 @@ location: 'Space'
 
 1. Cek posisi, itu KLIA 1 / KLIA 2?>
 
-1. Turun Bandara cari arah ke *KLIA Ekspress / KLIA Transit*.
+1. Turun Bandara cari arah ke *KLIA Ekspress / KLIA Transit*. [Tutor Video](https://www.youtube.com/watch?v=Z4GZlhqh498)
 2. Beli Tiketnya pakai kartu debit ok [Gambar ticket machine](https://en.syfaganjarstory.com/wp-content/uploads/sites/2/2023/01/mesin-tiket-KLIA-Express_reg.webp)
 3. Cashless bisa, mastercard bisa
 4. Turun di KL Central (Muzium Negara)
