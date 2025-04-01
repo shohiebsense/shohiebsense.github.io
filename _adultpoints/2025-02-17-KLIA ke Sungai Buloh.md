@@ -15,8 +15,8 @@ location: 'Space'
 1. Turun Bandara cari arah ke *KLIA Ekspress / KLIA Transit*. [Tutor Video](https://www.youtube.com/watch?v=Z4GZlhqh498)
 2. Beli Tiketnya pakai kartu debit ok [Gambar ticket machine](https://en.syfaganjarstory.com/wp-content/uploads/sites/2/2023/01/mesin-tiket-KLIA-Express_reg.webp)
 3. Cashless bisa, mastercard bisa
-4. Turun di KL Central (Muzium Negara)
-5. Ganti moda naik MRT ke sungai buloh pakai one day pass. Bilang ke counter tiket.
+4. Turun di KL Central (Muzium Negara). Ini station kaya Halte transit kaya Sudirman. Hub antar moda.
+5. Ganti moda naik MRT ke sungai buloh pakai one day (period) pass. Bilang ke counter tiket. [Link Penjelasan](https://www.klia2.info/promotions/mycity-pass/)
 6. Atau beli token di ticket machine, bayarnya pakai uang tunai atau debit kalau mesinnya menyediakan. [Gambar ticket machine](https://www.mrt.com.my/images/fares/token_vending_machine_1.jpg)
 7. Kalau ga menyediakan, siapin uang tunai 10 Ringgit, kalau ga punya, punyanya lebih dari 10, tukar di counter ticket / petugas.
 8. Cari station sungai buloh, dari sini kita berada di MRT Kajang Line [Gambar Peta](https://i0.wp.com/www.klsentral.info/wp-content/uploads/2018/04/SBK-Alligment-Map-with-Station-Naming.jpg?w=2008&ssl=1) 
