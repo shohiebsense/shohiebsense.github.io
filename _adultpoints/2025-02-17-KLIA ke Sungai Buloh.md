@@ -10,7 +10,11 @@ location: 'Space'
 
 ### setelah sampai Bandara
 
-1. Cek posisi, itu KLIA 1 / KLIA 2?>
+1. Cek posisi, itu KLIA 1 / KLIA 2?
+2. Bisa mandi di tempat shower gratis, rekomended di KLIA 2. Kalau posisi di KLIA 1, Naik free shuttle / bus KLIA1 ke KLIA 2.
+3. Di KLIA 2, Area Shower ada di area departure [Link Video](https://www.instagram.com/malaysiaairports/reel/C2mfo75rCaJ/?hl=en)
+
+### setelah beberes / istirahat
 
 1. Turun Bandara cari arah ke *KLIA Ekspress / KLIA Transit*. [Tutor Video](https://www.youtube.com/watch?v=Z4GZlhqh498)
 2. Beli Tiketnya pakai kartu debit ok [Gambar ticket machine](https://en.syfaganjarstory.com/wp-content/uploads/sites/2/2023/01/mesin-tiket-KLIA-Express_reg.webp)
