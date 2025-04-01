@@ -13,6 +13,9 @@ location: 'Space'
 1. Cek posisi, itu KLIA 1 / KLIA 2?
 2. Bisa mandi di tempat shower gratis, rekomended di KLIA 2. Kalau posisi di KLIA 1, Naik free shuttle / bus KLIA1 ke KLIA 2.
 3. Di KLIA 2, Area Shower ada di area departure [Link Video](https://www.instagram.com/malaysiaairports/reel/C2mfo75rCaJ/?hl=en)
+4. Di KLIA 1 Ada, di lantai 3A (ada eskalator khusus yang bukan ke lantai 4 / departure, ada pokonya cari aja dari lantai 2 (arrrival hall))
+5. Kalau ketemu kata `Aras` maksudnya lantai (floor). Aras 2 berarti lantai 2.
+6. Atau kalau ga mau ribet ya cari sewa hotel yang ada shower di bandara.
 
 ### setelah beberes / istirahat
 
