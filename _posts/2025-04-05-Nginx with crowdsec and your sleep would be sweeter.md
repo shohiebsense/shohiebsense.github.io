@@ -1,5 +1,7 @@
 I have tried crowdsec [crowdsec](https://github.com/crowdsecurity/crowdsec) . It is tough as ubuntu repos not maintaining Lua modules anymore, you have to add it manually.  
 
+Or using LuaRocks.
+
 It works well with other modules like let's encrypt.  
 
 this is sample in action.  
