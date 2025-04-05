@@ -1,6 +1,22 @@
 I have tried crowdsec [crowdsec](https://github.com/crowdsecurity/crowdsec) . It is tough as ubuntu repos not maintaining Lua modules anymore, you have to add it manually.  
 
-Or using LuaRocks.
+Or using LuaRocks.  
+
+I `upgrade` from plain nginx to OpenResty.  
+
+if you find some errors when starting the nginx. See the `status`  
+
+```
+Apr 05 17:31:13 xxx.xxx.net nginx[1674599]:         no file '/usr/lib/x86_64-linux-gnu/lua/5.1/cjson.so'
+Apr 05 17:31:13 xxx.xxx.net nginx[1674599]:         no file '/usr/local/lib/lua/5.1/loadall.so'
+Apr 05 17:31:13 xxx.xxx.net nginx[1674599]: stack traceback:
+```
+
+i install them according to the version then copy it.
+
+`xxx:/etc/nginx# sudo cp /usr/local/lib/lua/5.1/cjson.so /usr/lib/x86_64-linux-gnu/lua/5.1/`
+
+
 
 It works well with other modules like let's encrypt.  
 
