@@ -21,3 +21,13 @@ this is sample in action.
 │ 1     │ crowdsec │ Ip:47.245.86.231  │ crowdsecurity/ssh-bf              │ ban    │ SG      │ 45102 Alibaba US Technology Co., Ltd. │ 7      │ 2h18m37s   │ 1        │
 ╰───────┴──────────┴───────────────────┴───────────────────────────────────┴────────┴─────────┴───────────────────────────────────────┴────────┴────────────┴──────────╯
 ```
+
+It integrates into your existing Nginx config.  
+
+It intercepts requests before they reach your backend.  
+
+It checks the client IP against CrowdSec’s decisions (blocklist/allowlist).  
+
+If the IP is banned, it returns a response (like 403 or CAPTCHA) directly — no need to proxy the request further.  
+
+So don't worry, it doesn't add another reverse proxy.  
