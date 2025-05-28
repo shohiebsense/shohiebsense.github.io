@@ -30,7 +30,7 @@ NAMESPACE       NAME                                                     READY  
 ingress-nginx   nginx-ingress-ingress-nginx-controller-f5b78bf4c-7xhbg   1/1     Running   0          16h
 shohiebsense@k8s-master:~/kube-configs$ kubectl get svc -n ingress-nginx
 NAME                                               TYPE           CLUSTER-IP      EXTERNAL-IP      PORT(S)                      AGE
-nginx-ingress-ingress-nginx-controller             LoadBalancer   10.108.242.29   103.187.147.73   80:30080/TCP,443:30443/TCP   44h
+nginx-ingress-ingress-nginx-controller             LoadBalancer   10.108.242.29   x.x.x.x   80:30080/TCP,443:30443/TCP   44h
 nginx-ingress-ingress-nginx-controller-admission   ClusterIP      10.103.107.28   <none>           443/TCP                      44h
 shohiebsense@k8s-master:~/kube-configs$ kubectl get svc
 NAME                        TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)          AGE
