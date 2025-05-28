@@ -1,3 +1,5 @@
+Check this video,  
+
 [![Watch the video](https://img.youtube.com/vi/RQbc_Yjb9ls/hqdefault.jpg)](https://youtu.be/RQbc_Yjb9ls)  
 
 you can, but also it will eventually let the kubernetes exposed the node port, to make it accessible from the public, but as you know it will use around 30000 ports.  
