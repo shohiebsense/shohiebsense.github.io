@@ -27,7 +27,7 @@ which gives
 7. The winner is the one who leaves the opponent with no available moves. Making the opposition unable to move.
 ```
 
-hillariously the solutions could be dead simple
+hilariously the solutions could be dead simple
 
 ```go
 func towerBreakers(n int32, m int32) int32 {
