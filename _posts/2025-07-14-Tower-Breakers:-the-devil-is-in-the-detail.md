@@ -23,7 +23,7 @@ which gives
 3. player 1 move first, and moves in alternating turns, what if the tower height is 1? Player 2 wins.
 4. what if the tower is only 1? check if the tower height is 1, player 2 still wins.
 5. If the tower height is not 1, say 2, player 1 wins
-6. therefore if number of towers are 2, even if the height is not1, player 2 wins.
+6. therefore if number of towers are 2, even if the height is not 1, player 2 wins.
 7. The winner is the one who leaves the opponent with no available moves. Making the opposition unable to move.
 ```
 
