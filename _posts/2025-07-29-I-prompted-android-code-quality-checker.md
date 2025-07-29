@@ -6,6 +6,8 @@ The aim is that it is to ensure we know what we do.
 
 [the repo](https://github.com/shohiebsense/android-code-quality-build-checker)  
 
+![img](https://raw.githubusercontent.com/shohiebsense/shohiebsense.github.io/refs/heads/master/images/Screenshot%202025-07-29%20at%2015.20.52.png)
+
 sample output
 
 # 🔍 Android Code Quality Report
