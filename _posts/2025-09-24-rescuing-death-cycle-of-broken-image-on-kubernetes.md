@@ -33,58 +33,57 @@
 
 4. If you need some more information, look for the pod json 
 
-  `kubectl get pod authsvc-58b68667dc-bhrlc -n namespace-svc-dev -o json`
+      `kubectl get pod authsvc-58b68667dc-bhrlc -n namespace-svc-dev -o json`
 
 5. In my case, check the image that the pod deployed, you see it's different signature `58b68667dc` and `6997b54ddc`  
+
 6. Try to delete the unwanted pod
 
-`kubectl get pods -n dev-app-svc | grep Terminating | awk '{print $1}' \
-  | xargs -I{} kubectl delete pod {} -n namespace-svc-dev --force --grace-period=0`  
+    `kubectl get pods -n dev-app-svc | grep Terminating | awk '{print $1}' \
+      | xargs -I{} kubectl delete pod {} -n namespace-svc-dev --force --grace-period=0`  
 
 7. If it kees recreating, set the replicas to 2 only, forcing, for example.
 
-  `kubectl scale deployment authsvc -n namespace-svc-dev --replicas=2`  
-
+      `kubectl scale deployment authsvc -n namespace-svc-dev --replicas=2`  
 
 8.  It should keep creating, see the list of replicasets
 
-`kubectl get rs -n namespace-svc-dev | grep authsvc`
+    `kubectl get rs -n namespace-svc-dev | grep authsvc`
 
-
-```
-jpailabs@node1:~$ kubectl get rs -n namespace-svc-dev | grep authsvc
-authsvc-6997b54ddc              2         2         2       29m
-authsvc-858f96c65b              0         0         0       65m
-authsvc-58b68667dc              1         1         0       21m
-jpailabs@node1:~$
-```
+    ```
+    jpailabs@node1:~$ kubectl get rs -n namespace-svc-dev | grep authsvc
+    authsvc-6997b54ddc              2         2         2       29m
+    authsvc-858f96c65b              0         0         0       65m
+    authsvc-58b68667dc              1         1         0       21m
+    jpailabs@node1:~$
+    ```
 
 9. Supposed that this guy is different and has the issue `authsvc-58b68667dc  `, set it to 0
-  `kubectl scale rs authsvc-58b68667dc -n namespace-svc-dev --replicas=0`
+      `kubectl scale rs authsvc-58b68667dc -n namespace-svc-dev --replicas=0`
 
 10. Check again
 
-```
-kubectl get rs -n namespace-svc-dev | grep authsvc
-kubectl get pods -l app=authsvc -n nameespace-svc-dev
-```
+    ```
+    kubectl get rs -n namespace-svc-dev | grep authsvc
+    kubectl get pods -l app=authsvc -n nameespace-svc-dev
+    ```
 
 11. If still creating, Rollout to previous deployment  
 
-```
-kubectl rollout undo deployment authsvc -n namespace-svc-dev
-```
+    ```
+    kubectl rollout undo deployment authsvc -n namespace-svc-dev
+    ```
 
 
 12. Then delete it again
 
-```
-kubectl get pods -n namespace-svc-dev | grep authsvc-d9b8d9cb | awk '{print $1}' \
->   | xargs -I{} kubectl delete pod {} -n namespace-svc-dev --force --grace-period=0
-```
+    ```
+    kubectl get pods -n namespace-svc-dev | grep authsvc-d9b8d9cb | awk '{print $1}' \
+    >   | xargs -I{} kubectl delete pod {} -n namespace-svc-dev --force --grace-period=0
+    ```
 
 Bonus, or just look for the previous stable ones, 
 
-```
-kubectl set image deployment/authsvc authsvc=registry-pg-1.app.co.id/superapps-app/authsvc:development-479 -n namespace-svc-dev
-```
+    ```
+    kubectl set image deployment/authsvc authsvc=registry-pg-1.app.co.id/superapps-app/authsvc:development-479 -n namespace-svc-dev
+    ```
