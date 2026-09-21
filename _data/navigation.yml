@@ -2,11 +2,9 @@
 main:
   - title: 'Posts'
     url: /posts/
-  - title: 'Looking for A Mentor?'
-    url: /I-am-Open-to-Mentor-Someone/
-  #- title: 'Astrologaster Journey'
-  #  url: /astrologaster-journey/
-  - title: 'Pokemon Recommendation'
+  - title: 'Astrompanion'
+    url: https://astrompanion.shohiebsense.io
+  - title: 'Pokemon Recommendation - LLM'
     url: https://pokerekom.shohiebsense.io
   - title: 'Course Journey'
     url: /course-journey/
